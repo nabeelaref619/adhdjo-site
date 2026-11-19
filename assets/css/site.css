@@ -15,3 +15,10 @@ main{min-height:65vh}.section{padding-block:70px}.section-small{padding-block:40
 .ad-section:has(.adsbygoogle[data-ad-status="unfilled"]){display:none}
 .ad-privacy-link{background:none;border:0;padding:.6rem 0;color:inherit;text-decoration:underline;font:inherit;font-size:.85rem}
 @media print{.ad-section,.ad-privacy-link{display:none!important}}
+
+/* Readable evidence labels and source details in both languages. */
+.sources,.byline,.tag,.example-label,.provider .population,.provider .eligibility,.provider .location,.provider .phone,.field label,.article-toc,.footer-bottom{font-size:.875rem}
+.article-body section{scroll-margin-block-start:7rem}
+.related h2{font-size:1.5rem;margin-block-start:0}
+.article-body a,.prose a,.provider a{overflow-wrap:anywhere}
+@media print{.article-body section{break-inside:auto}.article-body h2{break-after:avoid}.related{display:none}}

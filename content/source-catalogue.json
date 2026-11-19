@@ -1,0 +1,535 @@
+{
+  "version": 1,
+  "checked_on": "2026-11-19",
+  "groups": [
+    {
+      "id": "basics",
+      "en": {
+        "title": "Understand ADHD",
+        "intro": "Start with a broad explanation, then choose an age-specific source."
+      },
+      "ar": {
+        "title": "فهم الاضطراب",
+        "intro": "ابدأ بشرح عام، ثم اختر مصدرًا يناسب الفئة العمرية."
+      }
+    },
+    {
+      "id": "assessment",
+      "en": {
+        "title": "Assessment and appointment preparation",
+        "intro": "Use these sources to ask what an assessment includes and how its conclusion will be explained."
+      },
+      "ar": {
+        "title": "التقييم والتحضير للموعد",
+        "intro": "استفد من هذه المصادر للسؤال عما يشمله التقييم وكيف ستُشرح نتيجته."
+      }
+    },
+    {
+      "id": "treatment",
+      "en": {
+        "title": "Treatment questions and medicine safety",
+        "intro": "These references support informed questions for a qualified clinician. They do not choose a medicine, dose or treatment for you."
+      },
+      "ar": {
+        "title": "أسئلة العلاج وسلامة الأدوية",
+        "intro": "تساعد هذه المراجع على طرح أسئلة مدروسة على مختص مؤهل، ولا تختار دواءً أو جرعةً أو علاجًا لك."
+      }
+    },
+    {
+      "id": "school-work",
+      "en": {
+        "title": "Support at home, school and work",
+        "intro": "Practical ideas need to fit the person and setting. Check local school and employment procedures separately."
+      },
+      "ar": {
+        "title": "الدعم في المنزل والمدرسة والعمل",
+        "intro": "ينبغي أن تناسب الأفكار العملية الشخص وبيئته. تحقّق بصورة منفصلة من إجراءات المدرسة والعمل المحلية."
+      }
+    },
+    {
+      "id": "sleep",
+      "en": {
+        "title": "Sleep and wider wellbeing",
+        "intro": "These sources provide general health information alongside ADHD-specific guidance."
+      },
+      "ar": {
+        "title": "النوم والصحة النفسية العامة",
+        "intro": "تقدم هذه المصادر معلومات صحية عامة إلى جانب الإرشادات الخاصة بالاضطراب."
+      }
+    },
+    {
+      "id": "jordan",
+      "en": {
+        "title": "Checking professional and facility information in Jordan",
+        "intro": "Official routes to investigate registration questions. A public-source check is not a clinical quality rating."
+      },
+      "ar": {
+        "title": "التحقق من معلومات المختص والمنشأة في الأردن",
+        "intro": "قنوات رسمية لبحث أسئلة الترخيص. فحص مصدر عام ليس تقييمًا لجودة الرعاية السريرية."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "nimh-overview",
+      "group": "basics",
+      "url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+      "publisher": "NIMH",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD: What You Need to Know",
+        "note": "A starting point for symptoms, assessment and the broad treatment picture. It helps explain clinical background; it does not select treatment for an individual."
+      },
+      "ar": {
+        "title": "اضطراب فرط الحركة وتشتت الانتباه: ما تحتاج إلى معرفته",
+        "note": "مدخل إلى الأعراض والتقييم والصورة العامة للعلاج. يوضح الخلفية السريرية، ولا يختار علاجًا لشخص بعينه."
+      }
+    },
+    {
+      "id": "nimh-adults",
+      "group": "basics",
+      "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
+      "publisher": "NIMH",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD in Adults: 4 Things to Know",
+        "note": "Useful for adult recognition, childhood history, overlooked symptoms and treatment options. Read this alongside the appointment guide if you are seeking an adult assessment."
+      },
+      "ar": {
+        "title": "الاضطراب لدى البالغين: أربع معلومات أساسية",
+        "note": "يفيد في فهم التعرف على الاضطراب لدى البالغين وتاريخ الطفولة والأعراض التي قد تُغفل وخيارات العلاج. اقرأه مع دليل التحضير إذا كنت تبحث عن تقييم للبالغين."
+      }
+    },
+    {
+      "id": "cdc-about",
+      "group": "basics",
+      "url": "https://www.cdc.gov/adhd/about/index.html",
+      "publisher": "CDC",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD in Children",
+        "note": "Explains the condition, possible contributing factors and its effect on childhood development and daily life. US service information requires local checking before use in Jordan."
+      },
+      "ar": {
+        "title": "الاضطراب لدى الأطفال",
+        "note": "يشرح الاضطراب والعوامل المحتملة المرتبطة به وأثره في نمو الطفل وحياته اليومية. تتطلب معلومات الخدمات الأمريكية تحققًا محليًا قبل تطبيقها في الأردن."
+      }
+    },
+    {
+      "id": "cdc-symptoms",
+      "group": "basics",
+      "url": "https://www.cdc.gov/adhd/signs-symptoms/index.html",
+      "publisher": "CDC",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Symptoms of ADHD",
+        "note": "Describes different symptom patterns. A list of familiar experiences can help you form questions; it cannot establish a diagnosis."
+      },
+      "ar": {
+        "title": "أعراض الاضطراب",
+        "note": "يصف أنماط الأعراض المختلفة. قد تساعدك ملاحظة تجارب مألوفة على تحضير أسئلتك، لكنها لا تثبت التشخيص."
+      }
+    },
+    {
+      "id": "medline-adhd",
+      "group": "basics",
+      "url": "https://medlineplus.gov/attentiondeficithyperactivitydisorder.html",
+      "publisher": "MedlinePlus / National Library of Medicine",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD overview",
+        "note": "A public-health overview with links for understanding symptoms, diagnosis and treatment across life stages."
+      },
+      "ar": {
+        "title": "نظرة عامة على الاضطراب",
+        "note": "نظرة عامة من مصدر للصحة العامة، مع روابط لفهم الأعراض والتشخيص والعلاج في مراحل العمر المختلفة."
+      }
+    },
+    {
+      "id": "cdc-diagnosis",
+      "group": "assessment",
+      "url": "https://www.cdc.gov/adhd/diagnosis/index.html",
+      "publisher": "CDC",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Diagnosing ADHD",
+        "note": "Explains why assessment has several steps, considers more than one setting and checks other explanations. Its US referral and evaluation arrangements are not Jordanian entitlements."
+      },
+      "ar": {
+        "title": "تشخيص الاضطراب",
+        "note": "يوضح لماذا يتضمن التقييم خطوات متعددة وبيئات مختلفة وتفسيرات أخرى محتملة. ترتيبات التحويل والتقييم الأمريكية المذكورة فيه ليست حقوقًا مقررة في الأردن."
+      }
+    },
+    {
+      "id": "medline-screening",
+      "group": "assessment",
+      "url": "https://medlineplus.gov/lab-tests/adhd-screening/",
+      "publisher": "MedlinePlus / National Library of Medicine",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD Screening",
+        "note": "Explains questionnaires, health history and additional checks that may be needed. No single screening result settles the diagnosis."
+      },
+      "ar": {
+        "title": "الفحص الأولي للاضطراب",
+        "note": "يشرح الاستبيانات والتاريخ الصحي والفحوص الإضافية التي قد تلزم. لا تحسم نتيجة فحص أولي واحدة التشخيص."
+      }
+    },
+    {
+      "id": "aqas-adults",
+      "group": "assessment",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1380410/full",
+      "publisher": "UK Adult ADHD Network / Frontiers in Psychiatry",
+      "region": "UK",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "The adult ADHD assessment quality assurance standard",
+        "note": "A 2024 professional consensus standard for detailed adult assessment and meaningful feedback, including missing or conflicting information. Useful for questions about assessment quality; it is not Jordanian law."
+      },
+      "ar": {
+        "title": "معيار ضمان جودة تقييم الاضطراب لدى البالغين",
+        "note": "معيار توافق مهني منشور عام 2024 للتقييم المفصّل للبالغين وشرح النتائج، بما يشمل المعلومات الناقصة أو المتعارضة. يفيد في إعداد أسئلة عن جودة التقييم، وليس قانونًا أردنيًا."
+      }
+    },
+    {
+      "id": "nice-ng87",
+      "group": "assessment",
+      "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+      "publisher": "NICE",
+      "region": "UK",
+      "checked_on": "2026-11-19",
+      "check_status": "official_indexed_content_confirmed_direct_fetch_403",
+      "en": {
+        "title": "ADHD: diagnosis and management — NG87",
+        "note": "Clinical recommendations on assessment, support and shared treatment planning. UK clinical guidance does not establish Jordanian service routes or professional permissions."
+      },
+      "ar": {
+        "title": "تشخيص الاضطراب وتدبيره — الإرشاد NG87",
+        "note": "توصيات سريرية حول التقييم والدعم والمشاركة في تخطيط العلاج. الإرشادات البريطانية لا تحدد مسارات الخدمات أو صلاحيات الممارسة المهنية في الأردن."
+      }
+    },
+    {
+      "id": "nimh-visit",
+      "group": "assessment",
+      "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+      "publisher": "NIMH",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Talking with a healthcare provider about mental health",
+        "note": "Supports preparing questions and medicine lists and describing specific concerns. Ask your own clinic about consent and confidentiality; this page does not establish local rules."
+      },
+      "ar": {
+        "title": "التحدث مع مقدم الرعاية الصحية عن الصحة النفسية",
+        "note": "يدعم تحضير الأسئلة وقائمة الأدوية ووصف المخاوف المحددة. اسأل عيادتك عن الموافقة والسرية؛ فالصفحة لا تقرر القواعد المحلية."
+      }
+    },
+    {
+      "id": "cdc-treatment",
+      "group": "treatment",
+      "url": "https://www.cdc.gov/adhd/treatment/",
+      "publisher": "CDC",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Treatment of ADHD",
+        "note": "Explains how child treatment recommendations vary by age, including parent training and medication. The relevant options still need an individual care discussion."
+      },
+      "ar": {
+        "title": "علاج الاضطراب",
+        "note": "يوضح اختلاف توصيات علاج الأطفال بحسب العمر، بما فيها تدريب الوالدين والأدوية. تحتاج الخيارات المناسبة إلى نقاش رعاية فردي."
+      }
+    },
+    {
+      "id": "nimh-medication",
+      "group": "treatment",
+      "url": "https://www.nimh.nih.gov/health/topics/mental-health-medications",
+      "publisher": "NIMH",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Mental Health Medications",
+        "note": "Background on clinician supervision, differences in response and medicine safety. It does not verify Jordanian approvals, availability, price or a suitable dose for you."
+      },
+      "ar": {
+        "title": "أدوية الصحة النفسية",
+        "note": "خلفية عن الإشراف السريري واختلاف الاستجابة وسلامة الأدوية. لا يتحقق من الاعتماد أو التوفر أو السعر في الأردن، ولا يحدد جرعة مناسبة لك."
+      }
+    },
+    {
+      "id": "nimh-psychotherapy",
+      "group": "treatment",
+      "url": "https://www.nimh.nih.gov/health/topics/psychotherapies",
+      "publisher": "NIMH",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Psychotherapies",
+        "note": "General questions about finding a suitable therapy and evaluating progress. ADHD-specific treatment claims also need an ADHD source; this is not evidence that every therapy treats ADHD."
+      },
+      "ar": {
+        "title": "العلاجات النفسية",
+        "note": "أسئلة عامة عن اختيار علاج نفسي مناسب ومتابعة التقدم. تحتاج الادعاءات المتعلقة بعلاج الاضطراب إلى مصدر خاص به أيضًا؛ فلا تثبت الصفحة أن كل علاج نفسي يعالجه."
+      }
+    },
+    {
+      "id": "fda-stimulants",
+      "group": "treatment",
+      "url": "https://www.fda.gov/safety/medical-product-safety-information/fda-updating-warnings-improve-safe-use-prescription-stimulants-used-treat-adhd-and-other-conditions",
+      "publisher": "FDA",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Safe use of prescription stimulants",
+        "note": "A US regulator’s safety notice about misuse, addiction and sharing prescription stimulants. This is safety background, not a list of medicines licensed or stocked in Jordan."
+      },
+      "ar": {
+        "title": "الاستخدام الآمن للمنبّهات الموصوفة",
+        "note": "تنبيه سلامة من الجهة التنظيمية الأمريكية بشأن إساءة الاستخدام والإدمان ومشاركة المنبّهات الموصوفة. هو خلفية للسلامة، وليس قائمة بالأدوية المرخصة أو المتوفرة في الأردن."
+      }
+    },
+    {
+      "id": "nccih-complementary",
+      "group": "treatment",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/adhd-and-complementary-health-approaches",
+      "publisher": "NCCIH",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD and Complementary Health Approaches",
+        "note": "Reviews the evidence and its limits for complementary approaches. Useful when discussing a product or programme; uncertain evidence should not become a promise of benefit or cure."
+      },
+      "ar": {
+        "title": "الاضطراب والأساليب الصحية التكميلية",
+        "note": "يراجع الأدلة وحدودها للأساليب التكميلية. يفيد عند مناقشة منتج أو برنامج؛ ولا ينبغي تحويل الأدلة غير المؤكدة إلى وعد بالفائدة أو الشفاء."
+      }
+    },
+    {
+      "id": "cdc-parent-training",
+      "group": "school-work",
+      "url": "https://www.cdc.gov/adhd/treatment/behavior-therapy.html",
+      "publisher": "CDC",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Parent Training in Behavior Management",
+        "note": "Explains structured parent training and questions about programme delivery. Our home–school notes are original planning aids, not a substitute for such a programme."
+      },
+      "ar": {
+        "title": "تدريب الوالدين على إدارة السلوك",
+        "note": "يشرح تدريب الوالدين المنظّم وأسئلة عن طريقة تقديم البرنامج. سجل المنزل والمدرسة في موقعنا وسيلة تنظيمية أصلية، وليس بديلًا لهذا النوع من البرامج."
+      }
+    },
+    {
+      "id": "cdc-classroom",
+      "group": "school-work",
+      "url": "https://www.cdc.gov/adhd/treatment/classroom.html",
+      "publisher": "CDC",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD in the Classroom",
+        "note": "Describes classroom support and organizational approaches. References to US IEP or 504 arrangements must not be presented as the school process or legal entitlement in Jordan."
+      },
+      "ar": {
+        "title": "الاضطراب في الصف الدراسي",
+        "note": "يصف الدعم الصفي والأساليب التنظيمية. لا ينبغي تقديم ترتيبات IEP أو 504 الأمريكية باعتبارها إجراءات مدرسية أو حقوقًا قانونية في الأردن."
+      }
+    },
+    {
+      "id": "nhs-children",
+      "group": "school-work",
+      "url": "https://www.nhs.uk/conditions/adhd-children-teenagers/",
+      "publisher": "NHS",
+      "region": "UK",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD in children and young people",
+        "note": "Connects symptoms, assessment, home and school support. UK referral routes and school roles need separate local confirmation."
+      },
+      "ar": {
+        "title": "الاضطراب لدى الأطفال واليافعين",
+        "note": "يربط الأعراض والتقييم والدعم في المنزل والمدرسة. تتطلب مسارات التحويل والأدوار المدرسية البريطانية تحققًا محليًا منفصلًا."
+      }
+    },
+    {
+      "id": "nhs-adults",
+      "group": "school-work",
+      "url": "https://www.nhs.uk/conditions/adhd-adults/",
+      "publisher": "NHS",
+      "region": "UK",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "ADHD in adults",
+        "note": "Adult information with examples of support at work and in education. A practical support request does not, by itself, establish a particular legal entitlement in Jordan."
+      },
+      "ar": {
+        "title": "الاضطراب لدى البالغين",
+        "note": "معلومات للبالغين مع أمثلة للدعم في العمل والتعليم. طلب ترتيب عملي للدعم لا يثبت وحده استحقاقًا قانونيًا محددًا في الأردن."
+      }
+    },
+    {
+      "id": "nhs-sleep",
+      "group": "sleep",
+      "url": "https://www.nhs.uk/conditions/insomnia/",
+      "publisher": "NHS",
+      "region": "UK",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Insomnia",
+        "note": "Explains sleep problems, general habits and when to seek clinical advice. Supports the sleep guide’s basic information; it does not validate our routine builder as treatment."
+      },
+      "ar": {
+        "title": "الأرق",
+        "note": "يشرح مشكلات النوم والعادات العامة ومتى تطلب المشورة السريرية. يدعم المعلومات الأساسية في دليل النوم، ولا يثبت صلاحية أداة بناء الروتين كعلاج."
+      }
+    },
+    {
+      "id": "nhs-sleep-support",
+      "group": "sleep",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/",
+      "publisher": "NHS Every Mind Matters",
+      "region": "UK",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Sleep problems",
+        "note": "Further general sleep support and help-seeking advice. Use it to prepare a conversation about persistent problems and the constraints in your daily life."
+      },
+      "ar": {
+        "title": "مشكلات النوم",
+        "note": "معلومات إضافية عامة عن دعم النوم وطلب المساعدة. استفد منها لتحضير نقاش حول المشكلات المستمرة والظروف التي تؤثر في يومك."
+      }
+    },
+    {
+      "id": "nimh-selfcare",
+      "group": "sleep",
+      "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+      "publisher": "NIMH",
+      "region": "US",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Caring for Your Mental Health",
+        "note": "General self-care and help-seeking information. It provides background for manageable goals without claiming that an organizational worksheet treats ADHD."
+      },
+      "ar": {
+        "title": "العناية بصحتك النفسية",
+        "note": "معلومات عامة عن العناية بالنفس وطلب المساعدة. توفر خلفية للأهداف القابلة للتنفيذ، دون الادعاء بأن ورقة تنظيمية تعالج الاضطراب."
+      }
+    },
+    {
+      "id": "who-crisis",
+      "group": "sleep",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/suicide",
+      "publisher": "World Health Organization",
+      "region": "Global",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Suicide: questions and answers",
+        "note": "Background for recognizing the need for urgent help and involving a trusted person. It does not identify local emergency numbers or provide crisis care through this website."
+      },
+      "ar": {
+        "title": "الانتحار: أسئلة وأجوبة",
+        "note": "خلفية لفهم الحاجة إلى المساعدة العاجلة وإشراك شخص موثوق. لا تحدد الصفحة أرقام الطوارئ المحلية، ولا يقدم موقعنا من خلالها رعاية للأزمات."
+      }
+    },
+    {
+      "id": "moh-licensing",
+      "group": "jordan",
+      "url": "https://moh.gov.jo/ar/licensing/SubSitePages/122/6",
+      "publisher": "Jordan Ministry of Health",
+      "region": "Jordan",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Licensing Directorate responsibilities",
+        "note": "The directorate lists issuing statements about the validity and current status of practice permits among its responsibilities. A route for asking how to verify a permit; no named clinician’s current licence is established here."
+      },
+      "ar": {
+        "title": "مهام مديرية ترخيص المهن والمؤسسات الصحية",
+        "note": "تذكر المديرية أن من مهامها إصدار إفادات حول صحة تصاريح مزاولة المهنة وسريانها. قناة للسؤال عن طريقة التحقق من التصريح، وليست إثباتًا لترخيص حالي لأي مختص مسمّى هنا."
+      }
+    },
+    {
+      "id": "moh-facilities",
+      "group": "jordan",
+      "url": "https://www.moh.gov.jo/AR/Pages/اسماء_العيادات_و_المراكز_الطبية_و_المؤسسات_الصحية_المرخصة",
+      "publisher": "Jordan Ministry of Health",
+      "region": "Jordan",
+      "checked_on": "2026-11-19",
+      "check_status": "direct_page_retrieved",
+      "en": {
+        "title": "Licensed clinics, centres and health institutions",
+        "note": "An official index of facility categories, including specialist medicine and clinical psychology/counselling centres. A facility entry is not proof of every clinician’s ADHD expertise or appointment availability."
+      },
+      "ar": {
+        "title": "العيادات والمراكز والمؤسسات الصحية المرخصة",
+        "note": "فهرس رسمي لفئات المنشآت، يشمل طب الاختصاص ومراكز علم النفس العيادي والإرشاد النفسي. إدراج المنشأة لا يثبت خبرة كل مختص فيها بالاضطراب أو توفر مواعيده."
+      }
+    }
+  ],
+  "en": {
+    "title": "Sources and how to use them",
+    "intro": "An annotated reading list for the ADHDJO guides: what each source supports, where its advice applies, and what still needs local confirmation.",
+    "review_note": "Public sources checked on 19 November 2026 with AI assistance. This is an editorial source review; independent clinical review of ADHDJO content has not been completed.",
+    "translation_note": "Arabic descriptions are editorial translations prepared for ADHDJO, not official translations endorsed by the source organizations.",
+    "nice_check_note": "Recommendation excerpts checked on 19 November 2026; a complete-page recheck remains pending.",
+    "directory_note": "Provider-specific service claims, contact routes and access restrictions are linked on the directory entries. Read the directory method to understand what was checked.",
+    "editorial_link": "How content is researched and corrected",
+    "directory_link": "Directory checking method",
+    "group_label": "Choose a topic",
+    "check_label": "Checked",
+    "region_labels": {
+      "US": "United States",
+      "UK": "United Kingdom",
+      "Jordan": "Jordan",
+      "Global": "International"
+    }
+  },
+  "ar": {
+    "title": "المصادر وكيف تستفيد منها",
+    "intro": "قائمة قراءة مشروحة لأدلة ADHDJO: ما الذي يدعمه كل مصدر، وأين تنطبق معلوماته، وما الذي يحتاج إلى تحقق محلي.",
+    "review_note": "راجَعنا المصادر العامة في 19 نوفمبر 2026 بمساعدة الذكاء الاصطناعي. هذه مراجعة تحريرية للمصادر؛ ولم تُستكمل مراجعة سريرية مستقلة لمحتوى ADHDJO.",
+    "translation_note": "الأوصاف العربية ترجمة تحريرية أُعدّت لـ ADHDJO، وليست ترجمة رسمية معتمدة من الجهات صاحبة المصادر.",
+    "nice_check_note": "رُوجعت مقتطفات من التوصيات في 19 نوفمبر 2026؛ وما زالت إعادة فحص الصفحة كاملة مطلوبة.",
+    "directory_note": "ترتبط معلومات الخدمات وطرق التواصل وقيود الاستفادة بمصادرها في كل إدراج بالدليل. اقرأ منهجية الدليل لفهم ما تحقّقنا منه.",
+    "editorial_link": "كيف نبحث المحتوى ونصححه",
+    "directory_link": "منهجية التحقق من الدليل",
+    "group_label": "اختر موضوعًا",
+    "check_label": "تاريخ التحقق",
+    "region_labels": {
+      "US": "الولايات المتحدة",
+      "UK": "المملكة المتحدة",
+      "Jordan": "الأردن",
+      "Global": "دولي"
+    }
+  }
+}

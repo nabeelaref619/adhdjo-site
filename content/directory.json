@@ -1,0 +1,1187 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-19",
+  "public_label": {
+    "en": "Published information checked",
+    "ar": "تمت مراجعة المعلومات المنشورة"
+  },
+  "scope": {
+    "en": "Selected services and support routes described by providers, organizations or public health services. Source checking does not establish a licence, quality, suitability or availability.",
+    "ar": "خدمات ووسائل دعم مختارة يصفها مقدمو الخدمة أو المؤسسات أو الجهات الصحية العامة. مراجعة المصدر لا تثبت الترخيص أو الجودة أو الملاءمة أو توفر المواعيد."
+  },
+  "records": [
+    {
+      "id": "layali-abbasi",
+      "group": "jordan_assessment",
+      "category": "clinical_service",
+      "country_code": "JO",
+      "name": {
+        "en": "Dr. Layali Abbasi Clinic",
+        "ar": "عيادة الدكتورة ليالي عباسي"
+      },
+      "location": {
+        "en": "Amman, Jordan",
+        "ar": "عمّان، الأردن"
+      },
+      "description": {
+        "en": "The clinic lists child/adolescent ADHD assessment tools (ages 6–18) and adult ADHD rating scales alongside psychiatric services. Ask how these are used within a comprehensive assessment.",
+        "ar": "تعلن العيادة عن أدوات لتقييم أعراض ADHD لدى الأطفال والمراهقين من 6 إلى 18 سنة، ومقاييس لأعراضه لدى البالغين، إلى جانب خدمات الطب النفسي. اسأل كيف تُستخدم هذه الأدوات ضمن تقييم شامل."
+      },
+      "access": {
+        "en": "Confirm the age accepted and who conducts the assessment. Rating scales are one part of assessment; ask about developmental history, other possible explanations, the report, fees and follow-up.",
+        "ar": "تأكد من العمر المقبول ومن يجري التقييم. مقاييس الأعراض جزء من التقييم؛ اسأل عن التاريخ النمائي والأسباب المحتملة الأخرى والتقرير والرسوم والمتابعة."
+      },
+      "population": [
+        "children",
+        "adolescents",
+        "adults"
+      ],
+      "eligible_population": [
+        "children",
+        "adolescents",
+        "adults",
+        "young_adults"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+962 7777 33588",
+          "dial": "+962777733588",
+          "purpose": {
+            "en": "Published phone",
+            "ar": "الهاتف المنشور"
+          },
+          "source": "https://www.layali.clinic/contact"
+        },
+        {
+          "kind": "email",
+          "value": "layali.clinic@outlook.com",
+          "purpose": {
+            "en": "Email",
+            "ar": "البريد الإلكتروني"
+          },
+          "source": "https://www.layali.clinic/contact"
+        }
+      ],
+      "url": "https://www.layali.clinic/contact",
+      "sources": [
+        {
+          "url": "https://www.layali.clinic/contact",
+          "publisher": "Dr. Layali Abbasi Clinic",
+          "supports": "Published Amman clinic address, appointment telephone and email.",
+          "label": {
+            "en": "Clinic contact",
+            "ar": "التواصل مع العيادة"
+          }
+        },
+        {
+          "url": "https://www.layali.clinic/services-4",
+          "publisher": "Dr. Layali Abbasi Clinic",
+          "supports": "Lists psychiatry, Conners-4 for ages 6–18 and adult CAARS ADHD rating scales. Listing tools is not evidence of full diagnostic quality.",
+          "label": {
+            "en": "Published services",
+            "ar": "الخدمات المنشورة"
+          }
+        },
+        {
+          "url": "https://www.bau.edu.jo/Academic/CV.aspx?lang=en&userid=CKGGK5%2F8s4oIWCAthvOJog%3D%3D",
+          "publisher": "Al-Balqa Applied University",
+          "supports": "Corroborates named psychiatry teacher, psychiatry qualification and research. Not a licence-status record.",
+          "label": {
+            "en": "University profile — not a licence record",
+            "ar": "ملف جامعي — ليس سجلاً للترخيص"
+          }
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "restricted": false
+    },
+    {
+      "id": "lana-andoni",
+      "group": "jordan_assessment",
+      "category": "psychological_assessment",
+      "country_code": "JO",
+      "name": {
+        "en": "Lana Andoni, PhD — periodic Amman assessments",
+        "ar": "لانا أندوني — تقييمات دورية في عمّان"
+      },
+      "location": {
+        "en": "Amman, Jordan — periodic visits",
+        "ar": "عمّان، الأردن — زيارات دورية"
+      },
+      "description": {
+        "en": "Her website describes ADHD and developmental evaluations in Amman a few times a year in collaboration with Al-Masar. These are visiting assessment clinics; ask for the next available dates.",
+        "ar": "يذكر موقعها تقديم تقييمات لـ ADHD والنمو في عمّان عدة مرات سنويًا بالتعاون مع المسار. هذه مواعيد زيارات دورية؛ اسأل عن موعد الزيارة القادمة."
+      },
+      "access": {
+        "en": "Ask for the next Amman dates, the young-adult age limit and local follow-up. This is a periodic visiting psychology service; a prescribing service and current Jordanian practice authorization have not been established by this review.",
+        "ar": "اسأل عن مواعيد الزيارة القادمة إلى عمّان والحد العمري للشباب والمتابعة المحلية. هذه خدمة علم نفس بزيارات دورية؛ لم تثبت هذه المراجعة وجود خدمة لوصف الدواء أو ترخيص مزاولة ساري في الأردن."
+      },
+      "population": [
+        "children",
+        "adolescents",
+        "young_adults"
+      ],
+      "eligible_population": [
+        "children",
+        "adolescents",
+        "young_adults"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "(617) 446-3595",
+          "dial": "+16174463595",
+          "purpose": {
+            "en": "Published phone",
+            "ar": "الهاتف المنشور"
+          },
+          "source": "https://www.lanaandoni.com/"
+        },
+        {
+          "kind": "email",
+          "value": "lana@lanaandoni.com",
+          "purpose": {
+            "en": "Email",
+            "ar": "البريد الإلكتروني"
+          },
+          "source": "https://www.lanaandoni.com/"
+        }
+      ],
+      "url": "https://www.lanaandoni.com/",
+      "sources": [
+        {
+          "url": "https://www.lanaandoni.com/",
+          "publisher": "Lana Andoni",
+          "supports": "Describes clinical psychology, Arabic/English, child/teen/young-adult work, periodic Amman ADHD evaluations with Al-Masar, and contact email. Local practice authorization not established.",
+          "label": {
+            "en": "Amman visits and contact",
+            "ar": "زيارات عمّان والتواصل"
+          }
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "restricted": false
+    },
+    {
+      "id": "ahmed-dabbour",
+      "group": "jordan_assessment",
+      "category": "clinical_service",
+      "country_code": "JO",
+      "name": {
+        "en": "Dr. Ahmed Dabbour — Maria Den Braven Center",
+        "ar": "الدكتور أحمد دبور — مركز ماريا دن برافن"
+      },
+      "location": {
+        "en": "Amman, Jordan",
+        "ar": "عمّان، الأردن"
+      },
+      "description": {
+        "en": "The center’s staff profile lists ADHD care for adolescents and adults and gives a usual client age range of 13–60. Contact the center to confirm the clinician, assessment process and appointment availability.",
+        "ar": "يذكر ملفه في المركز تقديم رعاية لـ ADHD للمراهقين والبالغين، وفئة عمرية معتادة من 13 إلى 60 سنة. تأكد من المركز من المختص الذي سيقابلك وخطوات التقييم وتوفر المواعيد."
+      },
+      "access": {
+        "en": "The published usual age range is 13–60. Ask whether the clinician is accepting ADHD assessments for your age, what the assessment includes, and the cost of the report and follow-up.",
+        "ar": "الفئة العمرية المعتادة المنشورة هي 13–60 سنة. اسأل إن كان المختص يستقبل تقييمات ADHD لعمرك، وماذا يشمل التقييم، وكلفة التقرير والمتابعة."
+      },
+      "population": [
+        "adolescents",
+        "adults"
+      ],
+      "eligible_population": [
+        "adolescents",
+        "adults",
+        "young_adults"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+9627 8686 7749",
+          "dial": "+962786867749",
+          "purpose": {
+            "en": "Published phone",
+            "ar": "الهاتف المنشور"
+          },
+          "source": "https://mdb-center.com/contact-us/"
+        }
+      ],
+      "url": "https://mdb-center.com/contact-us/",
+      "sources": [
+        {
+          "url": "https://mdb-center.com/team/dr-ahmed-dabbour/",
+          "publisher": "Maria Den Braven Center",
+          "supports": "Identifies Ahmed Dabbour as psychiatrist and explicitly lists ADHD care and age range 13–60.",
+          "label": {
+            "en": "Clinician profile and ages",
+            "ar": "ملف المختص والأعمار"
+          }
+        },
+        {
+          "url": "https://mdb-center.com/contact-us/",
+          "publisher": "Maria Den Braven Center",
+          "supports": "Clinic contact route. Site header/footer publish +962 786867749 and Hanna Kaawar Street, Amman.",
+          "label": {
+            "en": "Center contact",
+            "ar": "التواصل مع المركز"
+          }
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "restricted": false
+    },
+    {
+      "id": "maen-abki",
+      "group": "jordan_assessment",
+      "category": "clinical_service",
+      "country_code": "JO",
+      "name": {
+        "en": "Dr. Maen Abki Clinic",
+        "ar": "عيادة الدكتور معن عبكي"
+      },
+      "location": {
+        "en": "Shmeisani, Amman, Jordan",
+        "ar": "الشميساني، عمّان، الأردن"
+      },
+      "description": {
+        "en": "The clinic website explicitly includes childhood ADHD among conditions treated and publishes an Amman booking number. Ask about age limits and the assessment pathway; adult ADHD care is not separately confirmed by the page.",
+        "ar": "يذكر موقع العيادة ADHD لدى الأطفال ضمن الحالات التي تعالجها، وينشر رقمًا للحجز في عمّان. اسأل عن الأعمار المقبولة ومسار التقييم؛ الصفحة لا تؤكد بصورة منفصلة تقديم رعاية ADHD للبالغين."
+      },
+      "access": {
+        "en": "Ask which child ages are accepted and how family and school information is gathered. The reviewed page does not separately confirm an adult ADHD service. Confirm the appointment location and full cost.",
+        "ar": "اسأل عن أعمار الأطفال المقبولة وكيفية جمع معلومات الأسرة والمدرسة. الصفحة المراجعة لا تؤكد بصورة منفصلة خدمة ADHD للبالغين. تأكد من مكان الموعد والكلفة الكاملة."
+      },
+      "population": [
+        "children"
+      ],
+      "eligible_population": [
+        "children"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+962 797826466",
+          "dial": "+962797826466",
+          "purpose": {
+            "en": "Published phone",
+            "ar": "الهاتف المنشور"
+          },
+          "source": "https://drmaenalabki.com/ar/"
+        }
+      ],
+      "url": "https://drmaenalabki.com/ar/",
+      "sources": [
+        {
+          "url": "https://drmaenalabki.com/ar/",
+          "publisher": "Dr. Maen Abki Clinic",
+          "supports": "Describes psychiatrist, child ADHD among conditions treated, adult psychiatry, Shmeisani clinic location and appointment telephone. Adult ADHD scope is not separately stated.",
+          "label": {
+            "en": "Clinic services and contact",
+            "ar": "خدمات العيادة والتواصل"
+          }
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "restricted": false
+    },
+    {
+      "id": "aseel-duwaikat",
+      "group": "jordan_support",
+      "category": "psychological_therapy",
+      "country_code": "JO",
+      "name": {
+        "en": "Aseel Duwaikat — Arab Therapy",
+        "ar": "أسيل دويكات — عرب ثيرابي"
+      },
+      "location": {
+        "en": "Jordan profile — online platform; country eligibility to confirm",
+        "ar": "ملف أردني — منصة عبر الإنترنت؛ تأكد من إتاحة الخدمة في بلدك"
+      },
+      "description": {
+        "en": "Her Arab Therapy profile lists psychological support and ADHD among areas of work, with Arabic as a stated language. This listing supports a therapy enquiry; it does not establish a diagnostic or prescribing service.",
+        "ar": "يذكر ملفها في عرب ثيرابي تقديم الدعم والعلاج النفسي، ويشمل ADHD ضمن مجالات العمل، مع العربية كلغة معلنة. يصلح الرابط للاستفسار عن العلاج النفسي، ولا يثبت تقديم خدمة تشخيص أو وصف أدوية."
+      },
+      "access": {
+        "en": "Ask about the ages served, your therapy goals, fees and whether sessions are available where you live. Do not assume that an online therapy profile includes formal diagnosis or medication prescribing.",
+        "ar": "اسأل عن الأعمار المقبولة وأهداف العلاج والرسوم وإمكانية تقديم الجلسات في بلد إقامتك. لا تفترض أن ملف العلاج النفسي عبر الإنترنت يشمل تشخيصاً رسمياً أو وصف الأدوية."
+      },
+      "population": [
+        "unconfirmed"
+      ],
+      "eligible_population": [
+        "unconfirmed"
+      ],
+      "contacts": [],
+      "url": "https://arabtherapy.com/ar/team/Aseel-Duwaikat",
+      "sources": [
+        {
+          "url": "https://arabtherapy.com/ar/team/Aseel-Duwaikat",
+          "publisher": "Arab Therapy",
+          "supports": "Identifies Aseel Duwaikat as psychologist, Arabic-speaking, Jordan location, and lists ADHD among areas of work. Provider claims a Jordan MOH permit but this review did not verify it with the regulator.",
+          "label": {
+            "en": "Therapy profile",
+            "ar": "ملف العلاج النفسي"
+          }
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "restricted": false
+    },
+    {
+      "id": "almasar",
+      "group": "jordan_support",
+      "category": "developmental_support",
+      "country_code": "JO",
+      "name": {
+        "en": "Al-Masar Child Development Services",
+        "ar": "المسار لخدمات تطور الطفل"
+      },
+      "location": {
+        "en": "Amman, Jordan",
+        "ar": "عمّان، الأردن"
+      },
+      "description": {
+        "en": "Al-Masar describes developmental and psychoeducational assessments, learning support, therapy and school-inclusion services. Use this route to ask about a child’s learning and developmental needs, and whether ADHD assessment requires a visiting clinician or referral.",
+        "ar": "يصف المسار خدمات تقييم نمائي ونفسي تربوي، ودعم التعلم والعلاج والدمج المدرسي. استفسر عن احتياجات طفلك التعليمية والنمائية، وهل يتطلب تقييم ADHD مختصًا زائرًا أو إحالة."
+      },
+      "access": {
+        "en": "Therapy services describe infancy through age 18; eligibility varies by programme. Ask which professional would assess your child and whether a visiting clinician or referral is needed for ADHD diagnosis. This listing does not establish a medication service.",
+        "ar": "تذكر خدمات العلاج الأعمار من الرضاعة حتى 18 سنة، وتختلف الأهلية حسب البرنامج. اسأل عن المختص الذي سيقيّم طفلك، وهل يتطلب تشخيص ADHD مختصاً زائراً أو إحالة. لا يثبت هذا الإدراج وجود خدمة دوائية."
+      },
+      "population": [
+        "children",
+        "adolescents",
+        "families"
+      ],
+      "eligible_population": [
+        "children",
+        "adolescents",
+        "families"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+962 6 533 8278",
+          "dial": "+96265338278",
+          "purpose": {
+            "en": "Published phone",
+            "ar": "الهاتف المنشور"
+          },
+          "source": "https://www.almasar.edu.jo/contactus"
+        },
+        {
+          "kind": "phone",
+          "value": "+962 79 636 0696",
+          "dial": "+962796360696",
+          "purpose": {
+            "en": "Published phone",
+            "ar": "الهاتف المنشور"
+          },
+          "source": "https://www.almasar.edu.jo/contactus"
+        },
+        {
+          "kind": "email",
+          "value": "info@almasar.edu.jo",
+          "purpose": {
+            "en": "Email",
+            "ar": "البريد الإلكتروني"
+          },
+          "source": "https://www.almasar.edu.jo/contactus"
+        }
+      ],
+      "url": "https://www.almasar.edu.jo/contactus",
+      "sources": [
+        {
+          "url": "https://www.almasar.edu.jo/services",
+          "publisher": "Al-Masar Child Development Services",
+          "supports": "Developmental and psychoeducational assessments, learning support, therapy for children from infancy through 18, and online consultations.",
+          "label": {
+            "en": "Child development services",
+            "ar": "خدمات تطور الطفل"
+          }
+        },
+        {
+          "url": "https://www.almasar.edu.jo/contactus",
+          "publisher": "Al-Masar Child Development Services",
+          "supports": "Publishes +962 6 533 8278, +962 79 636 0696 and info@almasar.edu.jo.",
+          "label": {
+            "en": "Center contact",
+            "ar": "التواصل مع المركز"
+          }
+        },
+        {
+          "url": "https://www.lanaandoni.com/",
+          "publisher": "Lana Andoni",
+          "supports": "Describes clinical psychology, Arabic/English, child/teen/young-adult work, periodic Amman ADHD evaluations with Al-Masar, and contact email. Local practice authorization not established.",
+          "label": {
+            "en": "Amman visits and contact",
+            "ar": "زيارات عمّان والتواصل"
+          }
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "restricted": false
+    },
+    {
+      "id": "ae-maudsley-camhs",
+      "category": "clinical_service",
+      "country_code": "AE",
+      "name": {
+        "en": "Maudsley Health — Child and Adolescent Mental Health",
+        "ar": "مودسلي هيلث — الصحة النفسية للأطفال والمراهقين"
+      },
+      "location": {
+        "en": "Al Bateen, Abu Dhabi, United Arab Emirates",
+        "ar": "البطين، أبوظبي، الإمارات العربية المتحدة"
+      },
+      "description": {
+        "en": "The Abu Dhabi child and adolescent service includes ADHD within neurodevelopmental care.",
+        "ar": "تدرج خدمة الأطفال والمراهقين في أبوظبي اضطراب فرط الحركة وتشتت الانتباه ضمن رعاية اضطرابات النمو العصبي."
+      },
+      "access": {
+        "en": "Ask for an ADHD assessment appointment at Al Bateen. Confirm the child's age, fees and insurance. The site still marks Khalifa City hospital as opening soon and Dubai as coming soon; do not assume these locations are open.",
+        "ar": "اطلب موعد تقييم في البطين، وتأكد من العمر المقبول والرسوم والتأمين. لا تفترض افتتاح مستشفى مدينة خليفة أو فرع دبي؛ لا يزال الموقع يصفهما بأنهما قيد الافتتاح."
+      },
+      "population": [
+        "children",
+        "adolescents"
+      ],
+      "url": "https://maudsleyhealth.com/services/camhs/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+971 2 610 7777",
+          "purpose": {
+            "en": "appointments",
+            "ar": "المواعيد"
+          },
+          "source": "https://maudsleyhealth.com/services/camhs/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://maudsleyhealth.com/services/camhs/",
+          "publisher": "Maudsley Health",
+          "supports": "ADHD service, children/adolescents, Al Bateen location, phone and locations awaiting opening",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "international_clinical"
+    },
+    {
+      "id": "sa-eshraq",
+      "category": "support_navigation",
+      "country_code": "SA",
+      "name": {
+        "en": "Saudi ADHD Society (Eshraq)",
+        "ar": "الجمعية السعودية لاضطراب فرط الحركة وتشتت الانتباه — إشراق"
+      },
+      "location": {
+        "en": "Saudi Arabia — regional contact routes",
+        "ar": "السعودية — وسائل تواصل حسب المنطقة"
+      },
+      "description": {
+        "en": "ADHD association offering education and support programs. Contact its regional team about suitable support and eligibility.",
+        "ar": "جمعية متخصصة في التوعية وبرامج دعم ذوي اضطراب فرط الحركة وتشتت الانتباه. تواصل مع فريق منطقتك لمعرفة الدعم المتاح وشروط الاستفادة."
+      },
+      "access": {
+        "en": "A support organization, not an individual clinician or a guaranteed appointment. Ask which programs serve your age and location and what documents or assessment are required.",
+        "ar": "هذه جهة دعم وليست طبيباً فردياً أو ضماناً لموعد. اسأل عن البرامج المناسبة لعمرك ومنطقتك وعن التقييم والوثائق المطلوبة."
+      },
+      "population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families"
+      ],
+      "url": "https://forms.adhd.org.sa/en/call-back-request-form/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families",
+        "young_adults"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "0536060955",
+          "purpose": {
+            "en": "Central Region (Riyadh)",
+            "ar": "المنطقة الوسطى (الرياض)"
+          },
+          "source": "https://forms.adhd.org.sa/en/call-back-request-form/"
+        },
+        {
+          "kind": "phone",
+          "value": "0557355580",
+          "purpose": {
+            "en": "Western Region (Jeddah/Makkah)",
+            "ar": "المنطقة الغربية (جدة/مكة)"
+          },
+          "source": "https://forms.adhd.org.sa/en/call-back-request-form/"
+        },
+        {
+          "kind": "phone",
+          "value": "0503866685",
+          "purpose": {
+            "en": "Eastern Province and other regions",
+            "ar": "المنطقة الشرقية والمناطق الأخرى"
+          },
+          "source": "https://forms.adhd.org.sa/en/call-back-request-form/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://forms.adhd.org.sa/en/call-back-request-form/",
+          "publisher": "Saudi ADHD Society",
+          "supports": "Current publicly listed regional contact routes",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        },
+        {
+          "url": "https://vol.adhd.org.sa/ar/%D8%B9%D9%86-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B9/",
+          "publisher": "Saudi ADHD Society",
+          "supports": "Association identity and support/education programs",
+          "label": {
+            "en": "Source 2",
+            "ar": "المصدر 2"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "organizations"
+    },
+    {
+      "id": "eg-tabarak-pediatric-neurology",
+      "category": "clinical_service",
+      "country_code": "EG",
+      "name": {
+        "en": "Tabarak Hospital New Cairo — Pediatric Neuromedical Clinic",
+        "ar": "مستشفى تبارك القاهرة الجديدة — عيادة مخ وأعصاب الأطفال"
+      },
+      "location": {
+        "en": "Fifth Settlement, New Cairo, Egypt",
+        "ar": "التجمع الخامس، القاهرة الجديدة، مصر"
+      },
+      "description": {
+        "en": "The hospital's pediatric neuromedical clinic explicitly lists ADHD among the conditions it treats.",
+        "ar": "تذكر صفحة عيادة مخ وأعصاب الأطفال بالمستشفى اضطراب فرط الحركة وتشتت الانتباه ضمن الحالات التي تعالجها."
+      },
+      "access": {
+        "en": "Ask which clinician conducts the assessment, accepted ages, assessment steps and follow-up. The service page does not establish an individual clinician's ADHD training or current licence.",
+        "ar": "اسأل عن الممارس الذي يجري التقييم والأعمار المقبولة وخطوات التقييم والمتابعة. صفحة الخدمة لا تثبت تدريب ممارس بعينه على الاضطراب أو سريان ترخيصه."
+      },
+      "population": [
+        "children"
+      ],
+      "url": "https://tabaraknewcairohospital.com/en/pediatric-neurology-clinic/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "15452",
+          "purpose": {
+            "en": "hospital appointments",
+            "ar": "مواعيد المستشفى"
+          },
+          "source": "https://tabaraknewcairohospital.com/en/pediatric-neurology-clinic/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tabaraknewcairohospital.com/en/pediatric-neurology-clinic/",
+          "publisher": "Tabarak Hospital New Cairo",
+          "supports": "Pediatric ADHD service, location and hospital phone",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "international_clinical"
+    },
+    {
+      "id": "lb-aubmc-cap",
+      "category": "clinical_service",
+      "country_code": "LB",
+      "name": {
+        "en": "AUBMC — Child and Adolescent Psychiatry and Psychology",
+        "ar": "المركز الطبي للجامعة الأميركية في بيروت — طب وعلم النفس للأطفال والمراهقين"
+      },
+      "location": {
+        "en": "Beirut, Lebanon",
+        "ar": "بيروت، لبنان"
+      },
+      "description": {
+        "en": "University medical-center assessment and treatment service for ages 0–18. Its official clinic registry includes ADHD.",
+        "ar": "خدمة تقييم وعلاج في مركز طبي جامعي للأعمار من الولادة حتى 18 عاماً. يتضمن السجل الرسمي للعيادة اضطراب فرط الحركة وتشتت الانتباه."
+      },
+      "access": {
+        "en": "Contact outpatient psychiatry and ask for the child/adolescent pathway, current intake, fees and possible support. The clinic's public description includes parent interviews and information from school or other carers.",
+        "ar": "تواصل مع العيادات النفسية الخارجية واسأل عن مسار الأطفال والمراهقين واستقبال الحالات والرسوم والدعم المتاح. يتضمن وصف التقييم مقابلة الوالدين ومعلومات من المدرسة أو مقدمي الرعاية."
+      },
+      "population": [
+        "children",
+        "adolescents"
+      ],
+      "url": "https://aubmc.org.lb/clinical/Psychiatry/Pages/main/Schedule-An-Appointment.aspx",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+961 1 759620",
+          "purpose": {
+            "en": "outpatient psychiatry appointments",
+            "ar": "مواعيد العيادات النفسية الخارجية"
+          },
+          "source": "https://aubmc.org.lb/clinical/Psychiatry/Pages/main/Schedule-An-Appointment.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.aubmc.org.lb/clinical/Psychiatry/Pages/main/Child-Adolescent-Psychiatry-Division-Services.aspx",
+          "publisher": "AUBMC",
+          "supports": "Age range and diagnostic/treatment process",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        },
+        {
+          "url": "https://clinicalresearch.aub.edu.lb/ClinicalTrials/Details/205",
+          "publisher": "American University of Beirut",
+          "supports": "ADHD in CAP clinic registry; research participation is not required for a clinical appointment",
+          "label": {
+            "en": "Source 2",
+            "ar": "المصدر 2"
+          }
+        },
+        {
+          "url": "https://aubmc.org.lb/clinical/Psychiatry/Pages/main/Schedule-An-Appointment.aspx",
+          "publisher": "AUBMC",
+          "supports": "Outpatient appointment contact",
+          "label": {
+            "en": "Source 3",
+            "ar": "المصدر 3"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "international_clinical",
+      "age_range": "0–18"
+    },
+    {
+      "id": "gb-slam-national-adult",
+      "category": "specialist_referral",
+      "country_code": "GB",
+      "name": {
+        "en": "South London and Maudsley — National Adult ADHD and Autism Service",
+        "ar": "ساوث لندن ومودسلي — الخدمة الوطنية لاضطراب فرط الحركة والتوحد للبالغين"
+      },
+      "location": {
+        "en": "London, United Kingdom",
+        "ar": "لندن، المملكة المتحدة"
+      },
+      "description": {
+        "en": "Specialist service for complex adult cases. November 2026 notice: closed to new national referrals; limited local complex referrals remain open.",
+        "ar": "خدمة تخصصية للحالات المعقدة لدى البالغين. إعلان نوفمبر 2026: الإحالات الوطنية الجديدة مغلقة، مع استمرار إحالات محلية محدودة للحالات المعقدة."
+      },
+      "access": {
+        "en": "No self-referrals. Requires an NHS clinician and local commissioning approval. The notice names Lambeth, Lewisham, Croydon, Southwark, Bromley, Greenwich and Bexley. Ask your local service about the appropriate pathway.",
+        "ar": "لا تقبل الإحالة الذاتية. يلزم طبيب من NHS وموافقة الجهة المحلية المختصة. يحدد الإعلان لامبث ولويشام وكرويدون وساوثوارك وبروملي وغرينتش وبكسلي. اسأل خدمتك المحلية عن المسار المناسب قبل محاولة الحجز."
+      },
+      "population": [
+        "adults"
+      ],
+      "url": "https://slam.nhs.uk/service-detail/service/national-adhd-and-autism-service-outpatients-164/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "adults",
+        "young_adults"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+44 20 3228 6791",
+          "purpose": {
+            "en": "service administration; not self-booking",
+            "ar": "إدارة الخدمة؛ ليس للحجز الذاتي"
+          },
+          "source": "https://slam.nhs.uk/service-detail/service/national-adhd-and-autism-service-outpatients-164/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://slam.nhs.uk/service-detail/service/national-adhd-and-autism-service-outpatients-164/",
+          "publisher": "South London and Maudsley NHS Foundation Trust",
+          "supports": "November 2026 referral closure, age 18+, local exclusions and telephone",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": true,
+      "group": "restricted_referral",
+      "age_range": "18+"
+    },
+    {
+      "id": "gb-gosh-neurodevelopment",
+      "category": "specialist_referral",
+      "country_code": "GB",
+      "name": {
+        "en": "Great Ormond Street Hospital — Neurodevelopmental Assessment Clinic",
+        "ar": "مستشفى غريت أورموند ستريت — عيادة تقييم النمو العصبي"
+      },
+      "location": {
+        "en": "London, United Kingdom",
+        "ar": "لندن، المملكة المتحدة"
+      },
+      "description": {
+        "en": "Assessment of complex neurodevelopmental needs after local assessment. Behavioural concerns related to ADHD may be considered; the service does not provide intervention.",
+        "ar": "تقييم للاحتياجات النمائية العصبية المعقدة بعد التقييم المحلي، وقد يشمل صعوبات سلوكية مرتبطة بالاضطراب. لا تقدم الخدمة تدخلاً علاجياً."
+      },
+      "access": {
+        "en": "Referral only through Community Paediatrics or CAMHS. No self- or GP referrals and no routine initial ADHD assessment to bypass local waiting lists. Keep local care in place.",
+        "ar": "تقبل الإحالة من طب الأطفال المجتمعي أو خدمات الصحة النفسية للأطفال والمراهقين فقط، وليس من الشخص أو طبيب الأسرة. ليست مساراً لتجاوز انتظار التقييم الأولي المحلي؛ يجب استمرار الرعاية المحلية."
+      },
+      "population": [
+        "children",
+        "adolescents"
+      ],
+      "url": "https://www.gosh.nhs.uk/wards-and-departments/departments/clinical-specialties/neurodisability/clinics-and-services-related-wolfson-neurodisability-service/neurodevelopmental-assessment-service/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents"
+      ],
+      "contacts": [],
+      "sources": [
+        {
+          "url": "https://www.gosh.nhs.uk/wards-and-departments/departments/clinical-specialties/neurodisability/clinics-and-services-related-wolfson-neurodisability-service/neurodevelopmental-assessment-service/",
+          "publisher": "Great Ormond Street Hospital",
+          "supports": "Age and complexity, referral source, exclusions, no intervention",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": true,
+      "group": "restricted_referral",
+      "age_range": "up to 18"
+    },
+    {
+      "id": "us-nyu-adult",
+      "category": "clinical_service",
+      "country_code": "US",
+      "name": {
+        "en": "NYU Langone — Adult ADHD Program",
+        "ar": "إن واي يو لانغون — برنامج اضطراب فرط الحركة وتشتت الانتباه للبالغين"
+      },
+      "location": {
+        "en": "New York, United States",
+        "ar": "نيويورك، الولايات المتحدة"
+      },
+      "description": {
+        "en": "Adult diagnostic evaluation, medication consultation/management and cognitive behavioural therapy through NYU Langone Psychiatry Associates.",
+        "ar": "تقييم تشخيصي واستشارات ومتابعة دوائية وعلاج سلوكي معرفي للبالغين ضمن عيادات الطب النفسي في إن واي يو لانغون."
+      },
+      "access": {
+        "en": "Call Psychiatry Associates for clinical appointments, fees and insurance. The practice lists video visits for patients in New York, New Jersey and Connecticut. This is not evidence of access from Jordan or other countries.",
+        "ar": "اتصل بعيادات الطب النفسي للاستفسار عن المواعيد والرسوم والتأمين. تذكر العيادة زيارات مرئية للمرضى في نيويورك ونيوجيرسي وكونيتيكت؛ لا يدل ذلك على إتاحة العلاج من الأردن أو دول أخرى."
+      },
+      "population": [
+        "adults"
+      ],
+      "url": "https://nyulangone.org/locations/nyu-langone-psychiatry-associates/adult-adhd-program",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "adults",
+        "young_adults"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+1 212-263-7419",
+          "purpose": {
+            "en": "Psychiatry Associates clinical appointments",
+            "ar": "المواعيد السريرية لعيادات الطب النفسي"
+          },
+          "source": "https://nyulangone.org/locations/nyu-langone-psychiatry-associates"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nyulangone.org/locations/nyu-langone-psychiatry-associates/adult-adhd-program",
+          "publisher": "NYU Langone Health",
+          "supports": "Adult ADHD services",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        },
+        {
+          "url": "https://nyulangone.org/locations/nyu-langone-psychiatry-associates",
+          "publisher": "NYU Langone Health",
+          "supports": "Clinical contact, New York location, video-visit states",
+          "label": {
+            "en": "Source 2",
+            "ar": "المصدر 2"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "international_clinical"
+    },
+    {
+      "id": "us-chop-adhd",
+      "category": "clinical_service",
+      "country_code": "US",
+      "name": {
+        "en": "Children's Hospital of Philadelphia — Center for Management of ADHD",
+        "ar": "مستشفى الأطفال في فيلادلفيا — مركز رعاية اضطراب فرط الحركة وتشتت الانتباه"
+      },
+      "location": {
+        "en": "Philadelphia area, Pennsylvania and New Jersey, United States",
+        "ar": "منطقة فيلادلفيا، بنسلفانيا ونيوجيرسي، الولايات المتحدة"
+      },
+      "description": {
+        "en": "Pediatric ADHD assessment and care. The main service page lists ages 4–18; an older intake notice includes ages 3–18, so confirm eligibility directly.",
+        "ar": "تقييم ورعاية للأطفال والمراهقين. تذكر الصفحة الرئيسية الأعمار 4–18، بينما يشمل إعلان استقبال أقدم الأعمار 3–18؛ تأكد من أهلية طفلك مباشرة."
+      },
+      "access": {
+        "en": "Call to check available appointments. The appointment page says there is no waitlist; this does not guarantee an early appointment. Most families arrange follow-up in their local community, so ask what care the center can provide after assessment.",
+        "ar": "اتصل للتحقق من المواعيد المتاحة. تذكر صفحة الحجز عدم وجود قائمة انتظار؛ لا يعني ذلك ضمان موعد قريب. ترتب معظم الأسر المتابعة في مجتمعها المحلي، لذا اسأل عن الرعاية التي يقدمها المركز بعد التقييم."
+      },
+      "population": [
+        "children",
+        "adolescents"
+      ],
+      "url": "https://www.chop.edu/centers-programs/center-management-adhd",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+1 215-590-7555",
+          "purpose": {
+            "en": "ADHD center",
+            "ar": "مركز ADHD"
+          },
+          "source": "https://www.chop.edu/centers-programs/center-management-adhd/locations"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.chop.edu/centers-programs/center-management-adhd",
+          "publisher": "Children's Hospital of Philadelphia",
+          "supports": "Current main service description and ages 4–18",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        },
+        {
+          "url": "https://www.chop.edu/centers-programs/center-management-adhd/your-childs-appointment",
+          "publisher": "Children's Hospital of Philadelphia",
+          "supports": "No waitlist and follow-up limitations",
+          "label": {
+            "en": "Source 2",
+            "ar": "المصدر 2"
+          }
+        },
+        {
+          "url": "https://www.chop.edu/centers-programs/center-management-adhd/locations",
+          "publisher": "Children's Hospital of Philadelphia",
+          "supports": "Locations and clinical telephone",
+          "label": {
+            "en": "Source 3",
+            "ar": "المصدر 3"
+          }
+        },
+        {
+          "url": "https://www.chop.edu/centers-programs/center-management-adhd/changes-center-management-adhd-current-waitlist-families-need-act",
+          "publisher": "Children's Hospital of Philadelphia",
+          "supports": "Older 2023 notice with different lower age boundary",
+          "label": {
+            "en": "Source 4",
+            "ar": "المصدر 4"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "international_clinical",
+      "age_range": "main page: 4–18; confirm with clinic"
+    },
+    {
+      "id": "us-chadd-centers",
+      "category": "referral_directory",
+      "country_code": "US",
+      "name": {
+        "en": "CHADD — ADHD Centers Directory",
+        "ar": "تشاد — دليل مراكز اضطراب فرط الحركة وتشتت الانتباه"
+      },
+      "location": {
+        "en": "United States and listed North American centers",
+        "ar": "الولايات المتحدة ومراكز مدرجة في أميركا الشمالية"
+      },
+      "description": {
+        "en": "Directory of ADHD clinics affiliated with hospitals or universities, searchable by location and age group.",
+        "ar": "دليل لعيادات مرتبطة بمستشفيات أو جامعات، مع البحث حسب الموقع والفئة العمرية."
+      },
+      "access": {
+        "en": "Choose a center, then check its own intake and eligibility page. CHADD states that the list is incomplete and does not endorse the listed facilities. Inclusion is not a licence or quality check.",
+        "ar": "اختر المركز ثم راجع شروط الاستقبال والأهلية في موقعه الرسمي. توضح تشاد أن القائمة غير شاملة ولا تُعد توصية بالمراكز؛ الإدراج ليس تحققاً من الترخيص أو الجودة."
+      },
+      "population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families"
+      ],
+      "url": "https://chadd.org/organization-directory/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families",
+        "young_adults"
+      ],
+      "contacts": [],
+      "sources": [
+        {
+          "url": "https://chadd.org/organization-directory/",
+          "publisher": "CHADD",
+          "supports": "Directory scope, filters, non-endorsement",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "organizations"
+    },
+    {
+      "id": "ca-vch-regional",
+      "category": "clinical_service",
+      "country_code": "CA",
+      "name": {
+        "en": "Vancouver Coastal Health — Regional ADHD Clinic",
+        "ar": "فانكوفر كوستال هيلث — العيادة الإقليمية لاضطراب فرط الحركة وتشتت الانتباه"
+      },
+      "location": {
+        "en": "Vancouver Coastal Health region, British Columbia, Canada",
+        "ar": "منطقة خدمات فانكوفر كوستال هيلث، بريتيش كولومبيا، كندا"
+      },
+      "description": {
+        "en": "The provincial HealthLink BC directory lists assessment, short-term treatment and referral support for people aged 17–35.",
+        "ar": "يسرد دليل هيلث لينك التابع للمقاطعة خدمات التقييم والعلاج القصير والإحالة للأعمار 17–35."
+      },
+      "access": {
+        "en": "Physician referral required. Check that your address is within the listed service area and ask about current eligibility and availability. Confirm the clinic address before travelling; this is not a Canada-wide service.",
+        "ar": "تلزم إحالة من طبيب. تأكد أن عنوانك ضمن منطقة الخدمة واسأل عن الأهلية والمواعيد الحالية، وتحقق من عنوان العيادة قبل السفر. ليست خدمة لجميع سكان كندا."
+      },
+      "population": [
+        "adolescents",
+        "adults"
+      ],
+      "url": "https://www.healthlinkbc.ca/find-care/find-health-services/program/regional-adhd-clinic",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "adolescents",
+        "adults",
+        "young_adults"
+      ],
+      "contacts": [
+        {
+          "kind": "phone",
+          "value": "+1 604-875-5578",
+          "purpose": {
+            "en": "regional clinic",
+            "ar": "العيادة الإقليمية"
+          },
+          "source": "https://www.healthlinkbc.ca/find-care/find-health-services/program/regional-adhd-clinic"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.healthlinkbc.ca/find-care/find-health-services/program/regional-adhd-clinic",
+          "publisher": "Province of British Columbia — HealthLink BC",
+          "supports": "Age range, physician referral, service area and telephone",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "international_clinical",
+      "age_range": "17–35"
+    },
+    {
+      "id": "ca-caddac-resources",
+      "category": "referral_directory",
+      "country_code": "CA",
+      "name": {
+        "en": "CADDAC — Find a Resource",
+        "ar": "كاداك — البحث عن موارد الدعم"
+      },
+      "location": {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      "description": {
+        "en": "Canadian ADHD resource map with location, province and category filters, including clinical services, coaching and other support.",
+        "ar": "خريطة موارد كندية مع البحث حسب الموقع والمقاطعة والفئة، وتشمل خدمات سريرية وتدريباً ودعماً آخر."
+      },
+      "access": {
+        "en": "Check the provider's profession, regulated scope and accepted ages before booking. A coach or support resource is not automatically qualified to diagnose or prescribe; this directory does not establish suitability.",
+        "ar": "تحقق من مهنة مقدم الخدمة وصلاحياته والأعمار المقبولة قبل الحجز. المدرب أو مورد الدعم ليس مؤهلاً تلقائياً للتشخيص أو وصف الدواء، ولا يثبت الدليل ملاءمة الخدمة."
+      },
+      "population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families"
+      ],
+      "url": "https://caddac.ca/find-a-resource/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families",
+        "young_adults"
+      ],
+      "contacts": [],
+      "sources": [
+        {
+          "url": "https://caddac.ca/find-a-resource/",
+          "publisher": "Centre for ADHD Awareness, Canada",
+          "supports": "Resource map, filters and mix of clinical/non-clinical entries",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "organizations"
+    },
+    {
+      "id": "au-aadpa-directory",
+      "category": "referral_directory",
+      "country_code": "AU",
+      "name": {
+        "en": "AADPA — ADHD Professionals Directory",
+        "ar": "الرابطة الأسترالاسية لمهنيي اضطراب فرط الحركة وتشتت الانتباه — دليل المهنيين"
+      },
+      "location": {
+        "en": "Australia and New Zealand",
+        "ar": "أستراليا ونيوزيلندا"
+      },
+      "description": {
+        "en": "Association directory searchable by profession and location. Listed professionals are AADPA members; entries include clinicians, coaches and allied practitioners.",
+        "ar": "دليل للجمعية قابل للبحث حسب المهنة والموقع. المدرجون أعضاء في الرابطة، وتشمل القائمة ممارسين سريريين ومدربين ومهنيين مساعدين."
+      },
+      "access": {
+        "en": "Filter by the profession you need, then check registration, assessment/prescribing scope and ages served. Membership is not independent licence verification, and listed services are not interchangeable.",
+        "ar": "اختر المهنة المطلوبة ثم تحقق من التسجيل المهني وصلاحيات التقييم أو وصف الدواء والأعمار المقبولة. العضوية ليست تحققاً مستقلاً من الترخيص، والخدمات المدرجة ليست متكافئة."
+      },
+      "population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families"
+      ],
+      "url": "https://aadpa.com.au/adhd-professionals-directory/",
+      "checked_on": "2026-11-19",
+      "licence_checked": false,
+      "availability_confirmed": false,
+      "eligible_population": [
+        "children",
+        "adolescents",
+        "adults",
+        "families",
+        "young_adults"
+      ],
+      "contacts": [],
+      "sources": [
+        {
+          "url": "https://aadpa.com.au/adhd-professionals-directory/",
+          "publisher": "Australasian ADHD Professionals Association",
+          "supports": "Country coverage, member-only listing and profession filters",
+          "label": {
+            "en": "Source 1",
+            "ar": "المصدر 1"
+          }
+        }
+      ],
+      "restricted": false,
+      "group": "organizations",
+      "additional_country_codes": [
+        "NZ"
+      ]
+    }
+  ]
+}
