@@ -11,7 +11,7 @@
   const cards = [...library.querySelectorAll('[data-media-item]')];
   const stages = [...library.querySelectorAll('[data-video-player]')];
   const placeholders = new Map(stages.map(stage => [stage, [...stage.childNodes].map(node => node.cloneNode(true))]));
-  const normalize = value => value.toLocaleLowerCase().normalize('NFKD')
+  const normalize = value => value.replace(/([a-z])([A-Z])/g, '$1 $2').toLocaleLowerCase().normalize('NFKD')
     .replace(/[\u0300-\u036f\u064b-\u065f\u0670\u0640]/g, '').replace(/[أإآ]/g, 'ا').trim();
   function unload(stage) {
     if (!stage.querySelector('iframe')) return;
@@ -21,9 +21,11 @@
     const words = normalize(search.value).split(/\s+/).filter(Boolean);
     let count = 0;
     cards.forEach(card => {
+      const haystack = normalize(card.dataset.search || card.textContent);
+      const tokens = haystack.split(/[^\p{L}\p{N}_]+/u);
       const matches = (!platform.value || card.dataset.platform === platform.value)
         && (!kind.value || card.dataset.kind === kind.value)
-        && words.every(word => normalize(card.dataset.search || card.textContent).includes(word));
+        && words.every(word => word.length < 3 ? tokens.includes(word) : haystack.includes(word));
       card.hidden = !matches;
       if (matches) count += 1;
       else card.querySelectorAll('[data-video-player]').forEach(unload);

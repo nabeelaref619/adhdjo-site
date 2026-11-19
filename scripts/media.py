@@ -10,7 +10,7 @@ from datetime import date
 from remediate import ROOT, ORIGIN, e, link, load, page, save
 
 
-VERSION = '20261119-media1'
+VERSION = '20261119-media2'
 KINDS = {
     'interview': {'en': 'Interview', 'ar': 'مقابلة'},
     'workshop': {'en': 'Workshop', 'ar': 'ورشة عمل'},
