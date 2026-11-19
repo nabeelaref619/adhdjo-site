@@ -1,0 +1,934 @@
+{
+  "checked_at": "2026-11-19",
+  "channels": [
+    {
+      "id": "instagram-adhdjo",
+      "platform": "Instagram",
+      "label": "ADHDJO · @adhdjo",
+      "url": "https://www.instagram.com/adhdjo/"
+    },
+    {
+      "id": "youtube",
+      "platform": "YouTube",
+      "label": "Reel Nabil · @ReelNabil",
+      "url": "https://www.youtube.com/@ReelNabil"
+    },
+    {
+      "id": "tiktok",
+      "platform": "TikTok",
+      "label": "ADHDJO · @adhdjo1",
+      "url": "https://www.tiktok.com/@adhdjo1"
+    },
+    {
+      "id": "instagram-reelnabil",
+      "platform": "Instagram",
+      "label": "Reel Nabil · @reelnabil",
+      "url": "https://www.instagram.com/reelnabil/"
+    }
+  ],
+  "items": [
+    {
+      "id": "bbc-extra-nabil-2024",
+      "title": {
+        "en": "BBC Extra: ADHD and young people’s lives",
+        "ar": "بي بي سي إكسترا: ADHD وحياة الشباب"
+      },
+      "description": {
+        "en": "A BBC Arabic feature naming Nabil Aref and describing his experience with ADHD and his awareness work on social media.",
+        "ar": "تقرير لبي بي سي عربي يقدّم نبيل عارف وتجربته مع الاضطراب ونشاطه التوعوي عبر وسائل التواصل الاجتماعي، وفق وصف الناشر."
+      },
+      "kind": "interview",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=OkTa1sZfhpY",
+      "date": "2024-08-24",
+      "youtube_id": "OkTa1sZfhpY",
+      "language": "ar",
+      "related": [
+        "adults",
+        "assessment"
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=OkTa1sZfhpY",
+          "label": "BBC News عربي"
+        }
+      ],
+      "original_title": "كيف يؤثر اضطراب ADHD على حياة الشباب؟"
+    },
+    {
+      "id": "alarabiya-jordan-nabil-2024",
+      "title": {
+        "en": "Nabil discusses ADHD with AlArabiya Jordan",
+        "ar": "نبيل يتحدث عن ADHD مع العربية الأردن"
+      },
+      "description": {
+        "en": "A segment whose headline names Nabil Aref and introduces his experience of concentration and ADHD. A matching title was also published by Al Hadath Jordan.",
+        "ar": "مقطع يعرّف عنوانه بنبيل عارف وتجربته مع التركيز والاضطراب. ونشرت قناة الحدث الأردني مقطعًا بالعنوان نفسه أيضًا."
+      },
+      "kind": "interview",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=JCn1uB16q6M",
+      "date": "2024-09-06",
+      "youtube_id": "JCn1uB16q6M",
+      "language": "ar",
+      "related": [
+        "adults",
+        "assessment"
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=JCn1uB16q6M",
+          "label": "AlArabiya Jordan / العربية الأردن"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=SwaKR4LfoPQ",
+          "label": "Al Hadath Jordan — related publication"
+        }
+      ],
+      "original_title": "\"مستحيل أركز بدون ما أعمل أكثر من شيء\".. الأردني \"نبيل عارف\" يشرح كل ما يفعله الـ ADHD.."
+    },
+    {
+      "id": "warsheh-nabil-adhd-2024",
+      "title": {
+        "en": "Nabil on Warsheh: his experience with ADHD",
+        "ar": "نبيل في بودكاست ورشة: تجربته مع ADHD"
+      },
+      "description": {
+        "en": "A Warsheh conversation with the creator of ADHDJO about his personal journey with ADHD. The publisher describes a discussion of learning to live with the condition.",
+        "ar": "حوار في بودكاست ورشة مع صاحب ADHDJO عن رحلته الشخصية مع الاضطراب. يصف ناشر الحلقة الحوار بأنه يتناول تعلّمه التعامل مع هذه التجربة."
+      },
+      "kind": "interview",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=PWRzpfD7-vo",
+      "date": "2024-06-04",
+      "youtube_id": "PWRzpfD7-vo",
+      "language": "ar",
+      "related": [
+        "adults",
+        "assessment"
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=PWRzpfD7-vo",
+          "label": "Warsheh Podcast"
+        },
+        {
+          "url": "https://podcasts.apple.com/ru/podcast/نبيل-معقول-كل-الناس-adhd/id1653538166?i=1000658028814",
+          "label": "Apple Podcasts — audio episode"
+        }
+      ],
+      "original_title": "نبيل | معقول كل الناس ADHD ؟"
+    },
+    {
+      "id": "ahlihub-lets-talk-adhd-2024",
+      "title": {
+        "en": "Let’s Talk ADHD — ahliHUB workshop",
+        "ar": "يلا نحكي ADHD — ورشة ahliHUB"
+      },
+      "description": {
+        "en": "Jordan Ahli Bank lists this ADHD workshop with Nabil Aref of ADHDJO and links to its recording. The session took place on 18 December 2024 according to the bank’s event list.",
+        "ar": "يدرج البنك الأهلي الأردني هذه الورشة مع نبيل عارف من ADHDJO ويربطها بتسجيلها. تاريخ الجلسة في قائمة البنك هو 18 ديسمبر 2024."
+      },
+      "kind": "workshop",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zDppZQAVnWY",
+      "date": null,
+      "youtube_id": "zDppZQAVnWY",
+      "language": "ar",
+      "related": [
+        "adults",
+        "assessment-in-jordan"
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=zDppZQAVnWY",
+          "label": "Jordan Ahli Bank / البنك الأهلي الأردني"
+        },
+        {
+          "url": "https://ahli.com/our-community/",
+          "label": "AhliHUB event listing"
+        }
+      ],
+      "original_title": "\"يلا نحكي ADHD\" ورشة ahliHUB مع نبيل عارف - ناشط للصحة النفسية - البنك الأهلي الأردني"
+    },
+    {
+      "id": "ig-ddx-pfhoboi",
+      "title": {
+        "en": "ADHD and boundaries",
+        "ar": "ADHD والحدود"
+      },
+      "description": {
+        "en": "A personal ADHD post connecting boundaries with a question for viewers.",
+        "ar": "منشور شخصي عن ADHD يربط موضوع الحدود بسؤال للمتابعين."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DdX-PFHoBoi/",
+      "date": "2026-09-16",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DdX-PFHoBoi/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-ddt2yhlik6q",
+      "title": {
+        "en": "Choosing who stays close",
+        "ar": "اختيار الأشخاص الأقرب إليك"
+      },
+      "description": {
+        "en": "Nabil shares a personal view on relationships and the people around him.",
+        "ar": "يشارك نبيل وجهة نظر شخصية عن العلاقات والأشخاص المحيطين به."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DdT2yHlIk6q/",
+      "date": "2026-09-15",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DdT2yHlIk6q/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dcwg15pi1wq",
+      "title": {
+        "en": "ADHD, words and humour",
+        "ar": "ADHD والكلمات والفكاهة"
+      },
+      "description": {
+        "en": "A playful post connecting ADHD, forgetfulness and wordplay.",
+        "ar": "منشور فكاهي يربط بين ADHD والنسيان واللعب بالكلمات."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DcwG15PI1wq/",
+      "date": "2026-09-01",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DcwG15PI1wq/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dcjwqj4oa4x",
+      "title": {
+        "en": "ADHD questions during an activity",
+        "ar": "أسئلة عن ADHD خلال نشاط"
+      },
+      "description": {
+        "en": "Friends ask Nabil about ADHD while he takes part in an activity. The caption introduces a longer conversation to come.",
+        "ar": "يسأل الأصدقاء نبيل عن ADHD أثناء مشاركته في نشاط. ويشير وصف المنشور إلى حوار أطول."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DcJWqJ4oA4X/",
+      "date": "2026-08-17",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DcJWqJ4oA4X/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dcbm40uorjx",
+      "title": {
+        "en": "Noticing signals from your body",
+        "ar": "ملاحظة إشارات الجسم"
+      },
+      "description": {
+        "en": "Nabil reflects on noticing bodily needs. Read the routine guide alongside this personal perspective.",
+        "ar": "يتحدث نبيل عن ملاحظة احتياجات الجسم. يمكن قراءة دليل الروتين إلى جانب هذه الرؤية الشخصية."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DcBM40uoRJX/",
+      "date": "2026-08-14",
+      "language": "ar",
+      "related": [
+        "sleep-and-routines"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DcBM40uoRJX/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "tt-7668648338111253780",
+      "title": {
+        "en": "Finding meaning in my ADHD experience",
+        "ar": "المعنى في تجربتي مع ADHD"
+      },
+      "description": {
+        "en": "Nabil shares a personal perspective on ADHD, kindness and supporting others.",
+        "ar": "يشارك نبيل وجهة نظر شخصية عن ADHD واللطف ومساندة الآخرين."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7668648338111253780",
+      "date": "2026-07-31",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7668648338111253780",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "ig-dbyiryliqtk",
+      "title": {
+        "en": "What ADHD means to me",
+        "ar": "ماذا يعني لي ADHD؟"
+      },
+      "description": {
+        "en": "A personal reflection on finding meaning and strengths in living with ADHD. Experiences differ from person to person.",
+        "ar": "تأمل شخصي في المعنى ونقاط القوة في التعايش مع ADHD. تختلف التجارب من شخص لآخر."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DbYiRYLIqTk/",
+      "date": "2026-07-29",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DbYiRYLIqTk/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dbomhfkobbl",
+      "title": {
+        "en": "A playful ADHD moment",
+        "ar": "لحظة فكاهية مع ADHD"
+      },
+      "description": {
+        "en": "A short ADHDJO post using humour and wordplay.",
+        "ar": "منشور قصير من ADHDJO يستخدم الفكاهة واللعب بالكلمات."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DbOMhFKobBl/",
+      "date": "2026-07-25",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DbOMhFKobBl/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "tt-7648332689182838036",
+      "title": {
+        "en": "Parenting and fear",
+        "ar": "التربية والخوف"
+      },
+      "description": {
+        "en": "A short parenting reflection asking whether an approach teaches a child or frightens them.",
+        "ar": "تأمل قصير في التربية يسأل إن كان الأسلوب يعلّم الطفل أم يخيفه."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7648332689182838036",
+      "date": "2026-06-06",
+      "language": "ar",
+      "related": [
+        "children-and-teens"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7648332689182838036",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "yt-sx-2mr5aa6a",
+      "title": {
+        "en": "Anxiety and stress — a short conversation",
+        "ar": "القلق والتوتر — حديث قصير"
+      },
+      "description": {
+        "en": "A short Reel Nabil video tagged with anxiety, stress and ADHD.",
+        "ar": "فيديو قصير من Reel Nabil يحمل وسوم القلق والتوتر وADHD."
+      },
+      "kind": "short",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Sx-2mr5AA6A",
+      "date": "2026-05-31",
+      "language": "ar",
+      "related": [
+        "care-options"
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=Sx-2mr5AA6A",
+          "label": "Reel Nabil — YouTube"
+        }
+      ],
+      "youtube_id": "Sx-2mr5AA6A",
+      "original_title": "الحلقة كاملة موجودة عقناتي 🥰 #القلق #التوتر #فرط_الحركة_وتشتت_الانتباه #adhd"
+    },
+    {
+      "id": "tt-7645987469216746773",
+      "title": {
+        "en": "Putting feelings into words",
+        "ar": "التعبير عن المشاعر بالكلمات"
+      },
+      "description": {
+        "en": "A clip introducing a conversation about anxiety, social anxiety and ADHD.",
+        "ar": "مقطع يقدم حديثاً عن القلق والقلق الاجتماعي وADHD."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7645987469216746773",
+      "date": "2026-05-31",
+      "language": "ar",
+      "related": [
+        "care-options"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7645987469216746773",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "tt-7645610802610736405",
+      "title": {
+        "en": "Anxiety, social fears and ADHD",
+        "ar": "القلق والمخاوف الاجتماعية وADHD"
+      },
+      "description": {
+        "en": "A short post pointing viewers to Nabil’s longer YouTube conversations.",
+        "ar": "منشور قصير يوجه المشاهدين إلى أحاديث نبيل الأطول على YouTube."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7645610802610736405",
+      "date": "2026-05-30",
+      "language": "ar",
+      "related": [
+        "care-options"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7645610802610736405",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "yt-k6sh8fpkgu4",
+      "title": {
+        "en": "Talking about anxiety",
+        "ar": "حديث عن القلق"
+      },
+      "description": {
+        "en": "A short video whose title introduces a personal conversation about anxiety and ADHD.",
+        "ar": "فيديو قصير يقدم عنوانه حديثاً شخصياً عن القلق وADHD."
+      },
+      "kind": "short",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=k6Sh8Fpkgu4",
+      "date": "2026-05-29",
+      "language": "ar",
+      "related": [
+        "care-options"
+      ],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=k6Sh8Fpkgu4",
+          "label": "Reel Nabil — YouTube"
+        }
+      ],
+      "youtube_id": "k6Sh8Fpkgu4",
+      "original_title": "#القلق و كيف تسيطر عليه، الفيديو كامل موجود عقناتي 🥰. #adhd"
+    },
+    {
+      "id": "tt-7637039192026959124",
+      "title": {
+        "en": "ADHD and time",
+        "ar": "ADHD والوقت"
+      },
+      "description": {
+        "en": "A humorous personal post about the experience of time.",
+        "ar": "منشور شخصي فكاهي عن تجربة الإحساس بالوقت."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7637039192026959124",
+      "date": "2026-05-07",
+      "language": "ar",
+      "related": [
+        "sleep-and-routines"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7637039192026959124",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "tt-7636813378534624533",
+      "title": {
+        "en": "ADHD and love",
+        "ar": "ADHD والحب"
+      },
+      "description": {
+        "en": "A short personal post about ADHD and love.",
+        "ar": "منشور شخصي قصير عن ADHD والحب."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7636813378534624533",
+      "date": "2026-05-06",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7636813378534624533",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "tt-7636695571851382037",
+      "title": {
+        "en": "Understanding before judging",
+        "ar": "الفهم قبل إصدار الأحكام"
+      },
+      "description": {
+        "en": "A personal awareness post mentioning ADHD and bipolar disorder. It does not establish anyone’s diagnosis.",
+        "ar": "منشور توعوي شخصي يذكر ADHD واضطراب ثنائي القطب. لا يثبت تشخيص أي شخص."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7636695571851382037",
+      "date": "2026-05-06",
+      "language": "ar",
+      "related": [
+        "care-options"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7636695571851382037",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "ig-dx9smoainur",
+      "title": {
+        "en": "A conversation about mental-health awareness",
+        "ar": "حديث عن الوعي بالصحة النفسية"
+      },
+      "description": {
+        "en": "A personal awareness post mentioning ADHD and bipolar disorder. It is not evidence of another person’s diagnosis.",
+        "ar": "منشور توعوي شخصي يذكر ADHD واضطراب ثنائي القطب. لا يُعد دليلاً على تشخيص أي شخص آخر."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DX9smoAINur/",
+      "date": "2026-05-05",
+      "language": "ar",
+      "related": [
+        "care-options"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DX9smoAINur/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dxhg_34indi",
+      "title": {
+        "en": "ADHD and expressing affection",
+        "ar": "ADHD والتعبير عن المودة"
+      },
+      "description": {
+        "en": "A light-hearted personal post about expressing love and feeling flustered.",
+        "ar": "منشور شخصي خفيف عن التعبير عن الحب والارتباك."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DXHg_34iNdi/",
+      "date": "2026-04-14",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DXHg_34iNdi/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dvrehpedjur",
+      "title": {
+        "en": "My sense of time",
+        "ar": "إحساسي بالوقت"
+      },
+      "description": {
+        "en": "Nabil describes his own experience of estimating time and explaining lateness.",
+        "ar": "يصف نبيل تجربته مع تقدير الوقت وشرح التأخر."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DVrEhPEDjUr/",
+      "date": "2026-03-09",
+      "language": "ar",
+      "related": [
+        "sleep-and-routines"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DVrEhPEDjUr/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dvbmrvria1-",
+      "title": {
+        "en": "Looking at strengths",
+        "ar": "النظر إلى نقاط القوة"
+      },
+      "description": {
+        "en": "Nabil offers an encouraging personal perspective on living with ADHD.",
+        "ar": "يقدم نبيل نظرة شخصية مشجعة للتعايش مع ADHD."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DVBMrVriA1-/",
+      "date": "2026-02-21",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DVBMrVriA1-/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-duvtgvccgaq",
+      "title": {
+        "en": "ADHD and difficult relationships",
+        "ar": "ADHD والعلاقات الصعبة"
+      },
+      "description": {
+        "en": "A personal post about impulsivity and difficult relationship dynamics. The labels used in a clip do not establish a diagnosis.",
+        "ar": "منشور شخصي عن الاندفاعية وصعوبة بعض العلاقات. لا تثبت الأوصاف المستخدمة في مقطع تشخيصاً لأي شخص."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DUvtgvCCGAQ/",
+      "date": "2026-02-14",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DUvtgvCCGAQ/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dulwyikihyf",
+      "title": {
+        "en": "That pause before going home",
+        "ar": "الوقفة قبل الدخول إلى البيت"
+      },
+      "description": {
+        "en": "Nabil asks viewers whether they also sit in the car for a moment before going inside.",
+        "ar": "يسأل نبيل المتابعين إن كانوا يجلسون قليلاً في السيارة قبل الدخول إلى المنزل."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DUlWyIkiHyf/",
+      "date": "2026-02-10",
+      "language": "ar",
+      "related": [
+        "sleep-and-routines"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DUlWyIkiHyf/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "tt-7602704293451484436",
+      "title": {
+        "en": "“Just focus” is not the whole conversation",
+        "ar": "«بس ركّز» ليست كل الحكاية"
+      },
+      "description": {
+        "en": "Nabil expresses frustration with being told to focus when he feels stuck.",
+        "ar": "يعبر نبيل عن إحباطه من طلب التركيز منه حين يشعر بأنه عالق."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7602704293451484436",
+      "date": "2026-02-03",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7602704293451484436",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "ig-dt5p4rxie0x",
+      "title": {
+        "en": "How I describe my attention",
+        "ar": "كيف أصف انتباهي؟"
+      },
+      "description": {
+        "en": "Nabil shares his personal view of attention, distraction and strengths. The linked guide provides broader background.",
+        "ar": "يشارك نبيل نظرته الشخصية للانتباه والتشتت ونقاط القوة. يقدم الدليل المرتبط معلومات أوسع."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DT5p4rXiE0X/",
+      "date": "2026-01-24",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DT5p4rXiE0X/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dtgdodtcm2m",
+      "title": {
+        "en": "Energy, attention and being heard",
+        "ar": "الطاقة والانتباه وأن يسمعك الآخرون"
+      },
+      "description": {
+        "en": "A personal reflection on restlessness, expressing feelings and listening to people close to you.",
+        "ar": "تأمل شخصي في الحركة والتعبير عن المشاعر والاستماع إلى المقربين."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DTgDOdtCM2M/",
+      "date": "2026-01-14",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DTgDOdtCM2M/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "tt-7585557888718884116",
+      "title": {
+        "en": "Acceptance in relationships",
+        "ar": "التقبل في العلاقات"
+      },
+      "description": {
+        "en": "A personal reflection on accepting people in close relationships.",
+        "ar": "تأمل شخصي في تقبل الأشخاص في العلاقات القريبة."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7585557888718884116",
+      "date": "2025-12-19",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7585557888718884116",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "ig-dsqhst_ib6c",
+      "title": {
+        "en": "A story and a question",
+        "ar": "حكاية وسؤال"
+      },
+      "description": {
+        "en": "A playful ADHDJO post asking viewers who “the ant” is.",
+        "ar": "منشور مرح من ADHDJO يسأل المتابعين: «قدرت تعرف مين هي النملة؟»."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DSQHST_iB6c/",
+      "date": "2025-12-14",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DSQHST_iB6c/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dsnxm2lcee0",
+      "title": {
+        "en": "The people we value",
+        "ar": "الأشخاص الذين نقدرهم"
+      },
+      "description": {
+        "en": "Nabil reflects on friendship and appreciating people who live with ADHD.",
+        "ar": "يتأمل نبيل الصداقة وتقدير الأشخاص الذين يعيشون مع ADHD."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DSNXM2LCEe0/",
+      "date": "2025-12-13",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DSNXM2LCEe0/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "tt-7583374755651177748",
+      "title": {
+        "en": "Appreciating friends with ADHD",
+        "ar": "تقدير الأصدقاء الذين لديهم ADHD"
+      },
+      "description": {
+        "en": "Nabil reflects on friendship, humour and appreciating people close to us.",
+        "ar": "يتأمل نبيل الصداقة والفكاهة وتقدير المقربين منا."
+      },
+      "kind": "short",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@adhdjo1/video/7583374755651177748",
+      "date": "2025-12-13",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@adhdjo1/video/7583374755651177748",
+          "label": "ADHDJO — TikTok"
+        }
+      ]
+    },
+    {
+      "id": "ig-dqwpebhinih",
+      "title": {
+        "en": "A message to reflect on",
+        "ar": "رسالة للتفكير"
+      },
+      "description": {
+        "en": "A personal ADHDJO post inviting viewers to consider the message at the end of the video.",
+        "ar": "منشور شخصي من ADHDJO يدعو المشاهد إلى التفكير في الرسالة في نهاية المقطع."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DQwPEbHiNiH/",
+      "date": "2025-11-07",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DQwPEbHiNiH/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    },
+    {
+      "id": "ig-dm738z1ir5p",
+      "title": {
+        "en": "ADHDJO humour",
+        "ar": "فكاهة من ADHDJO"
+      },
+      "description": {
+        "en": "A humorous ADHDJO post with a playful caption about comments and messages.",
+        "ar": "منشور فكاهي من ADHDJO بوصف مرح عن التعليقات والرسائل."
+      },
+      "kind": "short",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adhdjo/reel/DM738z1IR5p/",
+      "date": "2025-08-04",
+      "language": "ar",
+      "related": [
+        "adults"
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/adhdjo/reel/DM738z1IR5p/",
+          "label": "ADHDJO — Instagram"
+        }
+      ]
+    }
+  ]
+}
