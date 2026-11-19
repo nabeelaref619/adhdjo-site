@@ -1,0 +1,470 @@
+{
+  "checked_on": "2026-11-19",
+  "language_note": {
+    "en": "Arabic text is an editorial translation prepared for ADHDJO, not an official translation of the cited organizations.",
+    "ar": "النص العربي ترجمة تحريرية أُعدّت لـ ADHDJO، وليس ترجمة رسمية صادرة عن الجهات المذكورة."
+  },
+  "editorial_note": {
+    "en": "Prepared with AI assistance from the cited public sources. The booking scripts, worksheets and fictional examples are original practical aids. Independent clinical review has not been completed.",
+    "ar": "أُعدّ بمساعدة الذكاء الاصطناعي بالاستناد إلى المصادر العامة المذكورة. رسائل الحجز وأوراق التحضير والأمثلة الافتراضية وسائل عملية أصلية. لم يُستكمل تدقيق سريري مستقل."
+  },
+  "guides": [
+    {
+      "slug": "assessment-in-jordan",
+      "updated_on": "2026-11-19",
+      "clinical_review_status": "not independently clinically reviewed",
+      "en": {
+        "title": "Getting an ADHD assessment in Jordan",
+        "intro": "Finding a service is only the first step. You also need to know who will assess you, what the appointment includes and what it will cost. This guide gives you a way to compare services and prepare questions without assuming that every clinic, insurance plan or referral route works the same way. It is educational guidance, not a diagnosis or a recommendation of a particular clinician.",
+        "sections": [
+          {
+            "id": "start-with-your-question",
+            "kind": "practical",
+            "source_ids": [
+              "cdc-diagnosis",
+              "nimh-visit"
+            ],
+            "title": "1. Decide what you are asking for",
+            "paragraphs": [
+              "Write a short description of the problem that led you to look for help: missed work deadlines, repeated school difficulties, losing track of essential tasks, or something else. You do not need to decide your diagnosis before booking. An online score or social-media description can start a conversation, but it cannot settle the diagnosis. There is no single test that establishes ADHD.",
+              "When contacting a service in Jordan, say whether the appointment is for an adult, teenager or child. Ask specifically for an ADHD assessment; an appointment advertised as counselling, coaching or general support may have a different purpose. Ask your usual healthcare professional for help finding an appropriate assessment route if you are unsure where to begin."
+            ]
+          },
+          {
+            "id": "check-who-assesses",
+            "kind": "practical",
+            "source_ids": [
+              "moh-licensing",
+              "moh-facilities"
+            ],
+            "title": "2. Check the person and the place",
+            "paragraphs": [
+              "Ask for the assessor’s full name, professional title, current Jordanian practice-permit details and experience assessing your age group. Also ask who will explain the findings and who would handle medical treatment if it is needed. A title, a directory listing or a foreign qualification alone does not answer these questions.",
+              "Jordan’s Ministry of Health Licensing Directorate lists issuing statements about the validity and current status of practice permits among its responsibilities. Its website also provides categories of licensed health facilities. Use these official routes to ask how to check the individual and the facility. A facility listing does not establish the assessment quality of every person working there."
+            ]
+          },
+          {
+            "id": "choose-route",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "3. Compare routes before travelling or paying",
+            "paragraphs": [
+              "For a public-service route, ask your health centre or the relevant hospital whether it can assess ADHD in your age group or direct you elsewhere. Confirm any referral and eligibility requirements with that service. For a private appointment, ask whether the quoted appointment is an initial consultation or the full assessment. These are questions to investigate, not a promise that either route is available to every reader.",
+              "If you live outside Amman or would need time off work, confirm the exact location, number of visits and whether any preparation can be completed remotely. For an online appointment, ask whether the provider can assess someone physically located in Jordan, what an in-person examination might involve, and how follow-up would work."
+            ]
+          },
+          {
+            "id": "cost-sheet",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "4. Ask for a complete cost explanation",
+            "paragraphs": [
+              "We have not verified a standard assessment price, insurance benefit or waiting time for Jordan. Ask the service and your insurer separately before paying. Keep the answers together so that two offers can be compared on what they actually include. A low first-visit fee may tell you little about the total.",
+              "Use this booking checklist. “Not yet confirmed” is a useful answer to record; it is a reason to ask again before committing, not a space to fill with an estimate."
+            ],
+            "bullets": [
+              "What is charged for consultation, assessment, questionnaires and the written report?",
+              "Are follow-up and treatment-planning appointments separate?",
+              "Does insurance need prior approval, a referral or a particular provider?",
+              "What are the payment, cancellation and rescheduling terms?"
+            ]
+          },
+          {
+            "id": "what-to-expect",
+            "kind": "practical",
+            "source_ids": [
+              "nimh-adults",
+              "aqas"
+            ],
+            "title": "5. Expect a history, not just a score",
+            "paragraphs": [
+              "An adult assessment considers childhood history as well as current difficulties. School records or information from someone who knows you may help. Tell the clinician if records are unavailable, if memories are uncertain, or if involving family would be difficult. Do not invent details to make your account sound complete.",
+              "The UK Adult ADHD Network’s assessment standard recommends addressing missing or conflicting information and explaining how it affects conclusions. It is a useful discussion aid, not Jordanian law. Ask how the assessor will explore the information available to you and consider other possible explanations. You can request clarification without trying to steer the assessment toward a particular result."
+            ]
+          },
+          {
+            "id": "booking-example",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "6. A message you can adapt",
+            "paragraphs": [
+              "This is a fictional booking example, not a patient testimonial or an endorsement of a clinic:",
+              "“Hello. I am looking for an ADHD assessment for an adult in Jordan. Who conducts it, and what is their professional title and practice-permit information? What does the assessment include, what is the total expected cost, and is a written report included? I do not have my school reports. Can you explain how that is handled? Please also confirm the location, language of the appointment and earliest available date.”",
+              "Keep the first message limited to booking questions. Ask for the service’s approved method before sending medical records, identification documents or details about someone else. If you need a report for a school, employer or another clinician, ask that recipient what documentation it accepts before paying for extra paperwork."
+            ]
+          },
+          {
+            "id": "next-step",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "7. Leave with a usable next step",
+            "paragraphs": [
+              "After the assessment, ask for the conclusion in plain language, any remaining uncertainty and the next action. If more information or another assessment is needed, clarify who arranges it. If ADHD is not diagnosed, ask what else may explain the difficulties and what support is appropriate. Before leaving, write down one agreed action, who is responsible and when you will hear back. The result should help you understand what happens next, even when the answer is not yet complete."
+            ]
+          }
+        ]
+      },
+      "ar": {
+        "title": "كيف تبدأ تقييم اضطراب فرط الحركة وتشتت الانتباه في الأردن",
+        "intro": "العثور على جهة هو الخطوة الأولى فقط. تحتاج أيضًا إلى معرفة من سيقيّمك، وما الذي يشمله الموعد، وكم ستدفع. يساعدك هذا الدليل على مقارنة الخدمات وتحضير الأسئلة دون افتراض أن جميع العيادات أو خطط التأمين أو مسارات التحويل تعمل بالطريقة نفسها. هو دليل تثقيفي، وليس تشخيصًا أو توصية بمختص بعينه.",
+        "sections": [
+          {
+            "id": "start-with-your-question",
+            "kind": "practical",
+            "source_ids": [
+              "cdc-diagnosis",
+              "nimh-visit"
+            ],
+            "title": "١. حدّد نوع المساعدة التي تبحث عنها",
+            "paragraphs": [
+              "اكتب وصفًا قصيرًا للمشكلة التي دفعتك إلى طلب المساعدة: تفويت مواعيد العمل، أو صعوبات مدرسية متكررة، أو نسيان مهام أساسية، أو غير ذلك. لست مضطرًا إلى تحديد تشخيصك قبل الحجز. قد تدفعك نتيجة استبيان إلكتروني أو منشور إلى طرح السؤال، لكنها لا تحسم التشخيص. لا يوجد اختبار واحد يثبت وجود اضطراب فرط الحركة وتشتت الانتباه.",
+              "عند التواصل مع جهة في الأردن، وضّح إن كان الموعد لبالغ أو مراهق أو طفل. اسأل تحديدًا عن تقييم الاضطراب؛ فقد يكون هدف جلسة الإرشاد أو التدريب أو الدعم العام مختلفًا. وإذا لم تعرف من أين تبدأ، اطلب من مختص الرعاية الصحية الذي تراجعه مساعدتك في الوصول إلى جهة تقييم مناسبة."
+            ]
+          },
+          {
+            "id": "check-who-assesses",
+            "kind": "practical",
+            "source_ids": [
+              "moh-licensing",
+              "moh-facilities"
+            ],
+            "title": "٢. تحقّق من المختص ومن مكان الخدمة",
+            "paragraphs": [
+              "اطلب الاسم الكامل لمن سيجري التقييم، ومسمّاه المهني، وبيانات تصريح مزاولة المهنة الحالي في الأردن، وخبرته في تقييم فئتك العمرية. واسأل من سيشرح النتائج ومن سيتولى العلاج الطبي إن لزم. المسمّى وحده، أو الظهور في دليل، أو الحصول على مؤهل أجنبي لا يجيب عن هذه الأسئلة.",
+              "تذكر مديرية ترخيص المهن والمؤسسات الصحية في وزارة الصحة الأردنية أن من مهامها إصدار إفادات حول صحة تصريح مزاولة المهنة وسريانه. ويتيح موقع الوزارة أيضًا فئات للمؤسسات الصحية المرخصة. استخدم هذه القنوات الرسمية للسؤال عن طريقة التحقق من الشخص والمنشأة. إدراج منشأة في قائمة لا يثبت جودة تقييم كل شخص يعمل فيها."
+            ]
+          },
+          {
+            "id": "choose-route",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٣. قارن الخيارات قبل السفر أو الدفع",
+            "paragraphs": [
+              "للبحث عن خدمة عامة، اسأل المركز الصحي أو المستشفى المعني هل يقيّم الاضطراب للفئة العمرية المطلوبة أم يوجّهك إلى جهة أخرى. تأكّد من متطلبات التحويل وشروط الاستفادة لدى الجهة نفسها. وللموعد الخاص، اسأل هل الموعد المعروض استشارة أولية أم تقييم كامل. هذه أسئلة للتحقق، وليست وعدًا بأن أحد المسارين متاح لكل قارئ.",
+              "إذا كنت خارج عمّان أو تحتاج إلى إجازة من العمل، تأكّد من العنوان الدقيق وعدد الزيارات وإمكانية إنجاز بعض التحضير عن بُعد. وللموعد الإلكتروني، اسأل هل يمكن للمختص تقييم شخص موجود فعليًا في الأردن، وما الذي قد يحتاج إلى حضور شخصي، وكيف ستتم المتابعة."
+            ]
+          },
+          {
+            "id": "cost-sheet",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٤. اطلب توضيحًا كاملًا للتكلفة",
+            "paragraphs": [
+              "لم نتحقّق من سعر موحّد للتقييم أو تغطية تأمينية أو مدة انتظار عامة في الأردن. اسأل الجهة وشركة التأمين كلًا على حدة قبل الدفع. احتفظ بالإجابات في مكان واحد لتقارن بين عرضين وفق ما يشمله كل منهما. انخفاض رسم الزيارة الأولى لا يوضح بالضرورة التكلفة الكاملة.",
+              "استخدم قائمة الحجز التالية. عبارة «لم يتأكد بعد» إجابة مفيدة تسجّلها، وتساعدك على معرفة ما يجب السؤال عنه مجددًا قبل الالتزام، بدل ملء الفراغ بتخمين."
+            ],
+            "bullets": [
+              "ما رسوم الاستشارة والتقييم والاستبيانات والتقرير المكتوب؟",
+              "هل مواعيد المتابعة ووضع خطة العلاج برسوم منفصلة؟",
+              "هل يتطلب التأمين موافقة مسبقة أو تحويلًا أو مختصًا محددًا؟",
+              "ما شروط الدفع وإلغاء الموعد وتأجيله؟"
+            ]
+          },
+          {
+            "id": "what-to-expect",
+            "kind": "practical",
+            "source_ids": [
+              "nimh-adults",
+              "aqas"
+            ],
+            "title": "٥. توقّع مناقشة التاريخ، لا نتيجة استبيان فقط",
+            "paragraphs": [
+              "يتناول تقييم البالغ تاريخ الطفولة إلى جانب الصعوبات الحالية. وقد تفيد التقارير المدرسية أو معلومات من شخص يعرفك. أخبر المختص إذا لم تتوفر السجلات، أو كانت الذكريات غير مؤكدة، أو كانت مشاركة الأسرة صعبة. لا تخترع تفاصيل لتبدو روايتك مكتملة.",
+              "يوصي معيار شبكة اضطراب فرط الحركة وتشتت الانتباه للبالغين في المملكة المتحدة بمناقشة المعلومات الناقصة أو المتعارضة وتوضيح أثرها في الاستنتاج. يمكن الاستفادة منه في الحوار، لكنه ليس قانونًا أردنيًا. اسأل كيف سيبحث المختص في المعلومات المتاحة والتفسيرات الأخرى الممكنة. يمكنك طلب التوضيح دون محاولة توجيه التقييم نحو نتيجة بعينها."
+            ]
+          },
+          {
+            "id": "booking-example",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٦. رسالة يمكنك تعديلها",
+            "paragraphs": [
+              "هذا مثال افتراضي لرسالة حجز، وليس شهادة مريض أو توصية بعيادة:",
+              "«مرحبًا. أبحث عن تقييم اضطراب فرط الحركة وتشتت الانتباه لشخص بالغ في الأردن. من يجري التقييم، وما مسمّاه المهني وبيانات مزاولة المهنة لديه؟ ماذا يشمل التقييم، وما التكلفة الإجمالية المتوقعة، وهل يشمل تقريرًا مكتوبًا؟ لا أملك تقاريري المدرسية؛ كيف تتعاملون مع ذلك؟ أرجو أيضًا تأكيد العنوان ولغة الموعد وأقرب موعد متاح».",
+              "اجعل الرسالة الأولى مخصّصة لأسئلة الحجز. اسأل عن وسيلة الإرسال المعتمدة قبل إرسال سجلات طبية أو وثائق هوية أو معلومات عن شخص آخر. وإذا احتجت إلى تقرير لمدرسة أو جهة عمل أو مختص آخر، اسأل الجهة المستلمة عما تقبله قبل دفع تكلفة أوراق إضافية."
+            ]
+          },
+          {
+            "id": "next-step",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٧. اخرج بخطوة تالية واضحة",
+            "paragraphs": [
+              "بعد التقييم، اطلب شرح الاستنتاج بلغة واضحة، وما بقي غير محسوم، والخطوة التالية. إذا احتاج الأمر إلى معلومات إضافية أو تقييم آخر، حدّد من سيرتبه. وإذا لم يُشخَّص الاضطراب، اسأل عن التفسيرات الأخرى للصعوبات والدعم المناسب. قبل المغادرة، دوّن إجراءً واحدًا اتفقتم عليه، ومن سيتولاه، ومتى ستتلقى ردًا. يفترض أن يساعدك الموعد على فهم ما سيحدث لاحقًا حتى إن لم تكتمل الإجابة بعد."
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "moh-licensing",
+          "title": "Jordan Ministry of Health: responsibilities of the Licensing Directorate",
+          "url": "https://moh.gov.jo/ar/licensing/SubSitePages/122/6",
+          "checked_on": "2026-11-19",
+          "supports": "The directorate issues statements about the validity and current status of professional practice permits and licenses clinical psychology/counselling/mental-health centres. This is a verification route, not evidence that any named provider is currently licensed."
+        },
+        {
+          "id": "moh-facilities",
+          "title": "Jordan Ministry of Health: licensed clinics, medical centres and health institutions",
+          "url": "https://www.moh.gov.jo/AR/Pages/اسماء_العيادات_و_المراكز_الطبية_و_المؤسسات_الصحية_المرخصة",
+          "checked_on": "2026-11-19",
+          "supports": "Official facility-list categories include specialist medicine and clinical psychology/counselling centres; the index itself does not establish individual ADHD expertise or appointment availability."
+        },
+        {
+          "id": "nimh-adults",
+          "title": "NIMH: ADHD in Adults — 4 Things to Know",
+          "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
+          "checked_on": "2026-11-19",
+          "supports": "Adult assessment considers childhood history, present functioning and alternative explanations. School records and information from people who know the person may help."
+        },
+        {
+          "id": "cdc-diagnosis",
+          "title": "CDC: Diagnosing ADHD",
+          "url": "https://www.cdc.gov/adhd/diagnosis/index.html",
+          "checked_on": "2026-11-19",
+          "supports": "There is no single diagnostic test. Assessment considers other explanations; children are considered across settings. US-specific access entitlements are not applied to Jordan."
+        },
+        {
+          "id": "aqas",
+          "title": "UK Adult ADHD Network: The adult ADHD assessment quality assurance standard (2024)",
+          "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1380410/full",
+          "checked_on": "2026-11-19",
+          "supports": "Detailed assessment and feedback, real-life examples, corroborating information where available, and explicit consideration of missing or contradictory evidence. UK consensus guidance; not presented as Jordanian law."
+        },
+        {
+          "id": "nimh-visit",
+          "title": "NIMH: Tips for Talking With a Health Care Provider About Your Mental Health",
+          "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+          "checked_on": "2026-11-19",
+          "supports": "Preparation using questions and medication lists, describing concerns honestly and considering support at appointments. Its broad privacy statement is not reproduced as a claim about Jordanian law."
+        }
+      ],
+      "related_slugs": [
+        "assessment"
+      ],
+      "audience": {
+        "en": "Adults seeking assessment and families arranging assessment for a child or teenager. Adult history guidance is labelled where it applies. Confirm the service accepts the relevant age group.",
+        "ar": "البالغون الباحثون عن تقييم، والأسر التي ترتب تقييمًا لطفل أو مراهق. وُضّح ما يخص تاريخ البالغين عند وروده. تأكّد من أن الجهة تستقبل الفئة العمرية المطلوبة."
+      }
+    },
+    {
+      "slug": "assessment",
+      "updated_on": "2026-11-19",
+      "clinical_review_status": "not independently clinically reviewed",
+      "en": {
+        "title": "Preparing for your first ADHD appointment",
+        "intro": "A useful preparation sheet helps you describe your difficulties and remember your questions. It does not need to prove that you have ADHD. Use the prompts below for yourself or adapt them with a child or teenager, keeping their own experience central.",
+        "sections": [
+          {
+            "id": "one-page",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "1. Make one page, not a perfect life history",
+            "paragraphs": [
+              "Your first task is to make your main concern easy to find. Write why you booked and the two or three difficulties you most want help understanding. You may use Arabic, English or both in your own notes; ask the clinic beforehand which language the appointment and any questionnaires will use. Short notes are enough to start. This worksheet has no score and cannot diagnose ADHD.",
+              "If preparing feels overwhelming, complete only the first three lines: “I booked because…”, “The hardest part of my week is…”, and “I hope this appointment will help me…”. Bring the unfinished page. You can ask the clinician to help you explain something rather than delaying the visit until every box is filled."
+            ]
+          },
+          {
+            "id": "specific-examples",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "2. Describe events the clinician can explore",
+            "paragraphs": [
+              "Instead of relying only on labels such as “lazy”, “forgetful” or “bad at school”, choose specific situations. Note what happened, where it happened, how often you noticed it and its practical effect. Include occasions when the same task went more smoothly and what was different. The purpose is an accurate picture, not a persuasive case for one diagnosis.",
+              "Fictional example: “This month I missed two bill deadlines after putting the letters in a drawer. Both led to late fees. When the due date was on a visible calendar, I paid on time.” This is an example of useful description. The event by itself does not establish ADHD."
+            ]
+          },
+          {
+            "id": "timeline",
+            "kind": "practical",
+            "source_ids": [
+              "nimh-adults"
+            ],
+            "title": "3. Add a short timeline and mark uncertainty",
+            "paragraphs": [
+              "Divide your notes into childhood, school or further education, and adult life where relevant. Write one remembered example for each period, or “I do not remember”. Adult ADHD assessment considers earlier history; available school reports and information from someone who knew you may help. You do not need to manufacture a date or copy someone else’s symptom story.",
+              "If reports are missing, note where you have already looked and tell the clinic. If a parent is unavailable, or asking family would be distressing, explain that privately. The clinician needs to decide how to assess the available evidence. A relative’s presence should not be promised in advance without first discussing consent and the clinic’s process."
+            ]
+          },
+          {
+            "id": "health-context",
+            "kind": "practical",
+            "source_ids": [
+              "nimh-visit",
+              "cdc-diagnosis"
+            ],
+            "title": "4. Bring the health information that changes the picture",
+            "paragraphs": [
+              "Prepare a list of medicines, vitamins, supplements and non-prescription products you use, including dose if known. Bring previous relevant reports if you have them. Note major recent changes, sleep difficulties and any other concerns you want to discuss. NIMH recommends preparing medication lists and questions before a mental-health appointment.",
+              "For a child, ask the clinic what school observations it wants and how they should be obtained. CDC describes assessment across settings and consideration of other explanations. A child’s difficult week, or an adult’s concentration problem, should be explored in context. Do not change prescribed medication simply to prepare for this appointment; ask the prescribing clinician about any instructions."
+            ]
+          },
+          {
+            "id": "privacy-and-comfort",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "5. Plan for language, privacy and support",
+            "paragraphs": [
+              "Ask about appointment length, breaks, accessibility and whether a trusted person can join for part of the discussion. Decide what you would prefer to say alone. If an interpreter is needed, ask the clinic about arrangements rather than assuming a family member must translate sensitive information. For a child or teenager, ask how the young person’s own perspective will be heard.",
+              "Before sending forms, ask who can access them, how they are stored and how information from relatives or school will be requested. Ask the clinician to explain confidentiality and its limits in your situation. This guide does not state a blanket privacy rule or promise how a particular Jordanian clinic handles records."
+            ]
+          },
+          {
+            "id": "worksheet",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "6. Copy this appointment worksheet",
+            "paragraphs": [
+              "Keep the worksheet with you and your care team. There is no need to submit it to ADHDJO. Leave any question blank that you would rather discuss face to face. These prompts are an original organizational aid, not a validated screening tool."
+            ],
+            "bullets": [
+              "My main question and the change I hope for:",
+              "Two recent examples: situation / what happened / frequency / effect / what helped.",
+              "Earlier examples or records I have; information I am unsure about:",
+              "Medicines, supplements, other health concerns and recent changes:",
+              "People or records that may add context; my preferences about involving them:",
+              "My three questions for the clinician:",
+              "Practical arrangements still to confirm: language / location / total cost / report / follow-up."
+            ]
+          },
+          {
+            "id": "leave-with-plan",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "7. Record the plan before you leave",
+            "paragraphs": [
+              "Use a second small box for the outcome: what the clinician thinks so far; what remains uncertain; any next assessment; and the next agreed action. Ask when and how you will receive a written summary, if one is being prepared, and whom to contact if you do not understand it. For any proposed treatment, ask what it is intended to help, possible risks, alternatives and how progress will be reviewed.",
+              "Before the appointment ends, read back the next step in your own words: “So I will arrange X, your clinic will send Y, and we will speak again on Z—is that right?” If the answer is not yet known, record who will find out. You should not have to reconstruct the whole plan from memory on the journey home."
+            ]
+          }
+        ]
+      },
+      "ar": {
+        "title": "التحضير لأول موعد لمناقشة اضطراب فرط الحركة وتشتت الانتباه",
+        "intro": "تساعدك ورقة تحضير مفيدة على وصف صعوباتك وتذكّر أسئلتك. لا يُفترض أن تثبت أنك مصاب بالاضطراب. استخدم الأسئلة التالية لنفسك، أو عدّلها مع طفل أو مراهق مع إبقاء تجربته هو في مركز الحديث.",
+        "sections": [
+          {
+            "id": "one-page",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "١. حضّر صفحة واحدة، لا سيرة حياة مثالية",
+            "paragraphs": [
+              "مهمتك الأولى أن تجعل سبب طلبك للمساعدة واضحًا. اكتب لماذا حجزت، وأهم صعوبتين أو ثلاث تريد فهمها. يمكنك كتابة ملاحظاتك بالعربية أو الإنجليزية أو بهما معًا؛ واسأل العيادة مسبقًا عن لغة الموعد والاستبيانات. تكفي ملاحظات قصيرة للبدء. هذه الورقة بلا درجات، ولا تشخّص اضطراب فرط الحركة وتشتت الانتباه.",
+              "إذا كان التحضير مرهقًا، اكتفِ بثلاث جمل: «حجزت لأن…»، و«أصعب ما في أسبوعي هو…»، و«أتمنى أن يساعدني الموعد على…». أحضر الصفحة ولو لم تكتمل. يمكنك طلب المساعدة في شرح شيء بدل تأجيل الزيارة حتى تملأ كل خانة."
+            ]
+          },
+          {
+            "id": "specific-examples",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٢. صف مواقف يستطيع المختص مناقشتها",
+            "paragraphs": [
+              "بدل الاكتفاء بأوصاف مثل «كسول» أو «كثير النسيان» أو «ضعيف دراسيًا»، اختر مواقف محددة. دوّن ما حدث وأين حدث وتكراره وأثره العملي. أضف المواقف التي أنجزت فيها المهمة نفسها بسهولة أكبر وما الذي اختلف. الهدف صورة دقيقة، لا بناء حجة مقنعة لتشخيص معين.",
+              "مثال افتراضي: «هذا الشهر فوّتُ موعد دفع فاتورتين بعد وضع الرسائل في درج، ونتجت عنهما رسوم تأخير. عندما كان الموعد مكتوبًا على تقويم ظاهر، دفعت في الوقت المحدد». هذا مثال على وصف مفيد. الموقف وحده لا يثبت وجود الاضطراب."
+            ]
+          },
+          {
+            "id": "timeline",
+            "kind": "practical",
+            "source_ids": [
+              "nimh-adults"
+            ],
+            "title": "٣. أضف تسلسلًا زمنيًا قصيرًا ووضّح ما لا تتذكره",
+            "paragraphs": [
+              "قسّم ملاحظاتك إلى الطفولة، والمدرسة أو التعليم اللاحق، وحياة البالغين بحسب حالتك. اكتب مثالًا تتذكره لكل مرحلة، أو عبارة «لا أتذكر». ينظر تقييم البالغ في التاريخ السابق؛ وقد تفيد تقارير مدرسية متاحة أو معلومات ممن عرفك آنذاك. لا حاجة إلى اختراع تاريخ أو نقل قصة أعراض شخص آخر.",
+              "إذا كانت التقارير مفقودة، دوّن أين بحثت عنها وأخبر العيادة. وإذا تعذّر حضور أحد الوالدين أو كان سؤال الأسرة مؤلمًا، اشرح ذلك على انفراد. يقرر المختص كيفية تقييم الأدلة المتاحة. لا تتعهد بحضور قريب قبل مناقشة الموافقة وطريقة عمل العيادة."
+            ]
+          },
+          {
+            "id": "health-context",
+            "kind": "practical",
+            "source_ids": [
+              "nimh-visit",
+              "cdc-diagnosis"
+            ],
+            "title": "٤. أحضر المعلومات الصحية التي تساعد على فهم الصورة",
+            "paragraphs": [
+              "حضّر قائمة بالأدوية والفيتامينات والمكمّلات والمستحضرات التي تستخدمها دون وصفة، مع الجرعة إن عرفتَها. وأحضر التقارير السابقة ذات الصلة إن توفرت. دوّن التغيرات الكبيرة مؤخرًا وصعوبات النوم وأي مخاوف تريد مناقشتها. يوصي المعهد الوطني للصحة النفسية بتحضير قائمة الأدوية والأسئلة قبل موعد الصحة النفسية.",
+              "للطفل، اسأل العيادة عن الملاحظات المدرسية التي تحتاجها وكيفية الحصول عليها. يصف مركز مكافحة الأمراض تقييمًا يراعي بيئات مختلفة وتفسيرات أخرى محتملة. ينبغي فهم أسبوع صعب يمر به طفل، أو مشكلة تركيز لدى بالغ، ضمن سياقها. لا تغيّر دواءً موصوفًا لمجرد التحضير للموعد؛ اسأل الطبيب الذي وصفه عن أي تعليمات."
+            ]
+          },
+          {
+            "id": "privacy-and-comfort",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٥. رتّب اللغة والخصوصية والمساندة",
+            "paragraphs": [
+              "اسأل عن مدة الموعد والاستراحات وإمكانية الوصول، وهل يمكن لشخص تثق به المشاركة في جزء من النقاش. حدّد ما تفضّل قوله على انفراد. وإذا احتجت إلى ترجمة، اسأل العيادة عن الترتيبات بدل افتراض أن أحد أفراد الأسرة يجب أن يترجم معلومات حساسة. وللطفل أو المراهق، اسأل كيف ستُسمع وجهة نظره هو.",
+              "قبل إرسال النماذج، اسأل من يمكنه الاطلاع عليها وكيف تُحفظ، وكيف ستُطلب معلومات من الأسرة أو المدرسة. اطلب من المختص شرح السرية وحدودها في وضعك. لا يضع هذا الدليل قاعدة خصوصية مطلقة، ولا يَعِد بطريقة معينة لحفظ السجلات في أي عيادة أردنية."
+            ]
+          },
+          {
+            "id": "worksheet",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٦. انسخ ورقة التحضير هذه",
+            "paragraphs": [
+              "احتفظ بالورقة معك ومع فريق الرعاية. لا حاجة إلى إرسالها إلى ADHDJO. اترك أي خانة فارغة إذا كنت تفضّل مناقشتها وجهًا لوجه. هذه الأسئلة وسيلة تنظيمية أصلية، وليست أداة فحص معتمدة."
+            ],
+            "bullets": [
+              "سؤالي الرئيسي والتغيير الذي أتمناه:",
+              "مثالان حديثان: الموقف / ما حدث / التكرار / الأثر / ما ساعد.",
+              "أمثلة سابقة أو سجلات أملكها، ومعلومات لست متأكدًا منها:",
+              "الأدوية والمكمّلات والمخاوف الصحية الأخرى والتغيرات الحديثة:",
+              "أشخاص أو سجلات قد تضيف معلومات، وتفضيلاتي بشأن إشراكهم:",
+              "أسئلتي الثلاثة للمختص:",
+              "ترتيبات أحتاج إلى تأكيدها: اللغة / العنوان / التكلفة الكاملة / التقرير / المتابعة."
+            ]
+          },
+          {
+            "id": "leave-with-plan",
+            "kind": "practical",
+            "source_ids": [],
+            "title": "٧. دوّن الخطة قبل أن تغادر",
+            "paragraphs": [
+              "خصّص مربعًا صغيرًا للنتيجة: ما يراه المختص حتى الآن، وما بقي غير محسوم، وأي تقييم لاحق، والخطوة المتفق عليها. اسأل متى وكيف ستحصل على ملخص مكتوب إن كان سيُعد، وبمن تتصل إذا لم تفهمه. ولكل علاج مقترح، اسأل عما يُفترض أن يساعد فيه ومخاطره المحتملة وبدائله وكيفية متابعة التحسن.",
+              "قبل انتهاء الموعد، كرّر الخطوة التالية بكلماتك: «إذًا سأرتّب كذا، وسترسل العيادة كذا، وسنتحدث مجددًا في الموعد الفلاني؛ هل فهمت جيدًا؟». وإذا لم تتضح الإجابة، دوّن من سيتحقق منها. ليس عليك إعادة بناء الخطة كلها من الذاكرة في طريق العودة."
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "nimh-adults",
+          "title": "NIMH: ADHD in Adults — 4 Things to Know",
+          "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
+          "checked_on": "2026-11-19",
+          "supports": "Adult assessment considers childhood history, present functioning and alternative explanations. School records and information from people who know the person may help."
+        },
+        {
+          "id": "cdc-diagnosis",
+          "title": "CDC: Diagnosing ADHD",
+          "url": "https://www.cdc.gov/adhd/diagnosis/index.html",
+          "checked_on": "2026-11-19",
+          "supports": "There is no single diagnostic test. Assessment considers other explanations; children are considered across settings. US-specific access entitlements are not applied to Jordan."
+        },
+        {
+          "id": "nimh-visit",
+          "title": "NIMH: Tips for Talking With a Health Care Provider About Your Mental Health",
+          "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider",
+          "checked_on": "2026-11-19",
+          "supports": "Preparation using questions and medication lists, describing concerns honestly and considering support at appointments. Its broad privacy statement is not reproduced as a claim about Jordanian law."
+        }
+      ],
+      "related_slugs": [
+        "assessment-in-jordan"
+      ],
+      "audience": {
+        "en": "Adults seeking assessment and families arranging assessment for a child or teenager. Adult history guidance is labelled where it applies. Confirm the service accepts the relevant age group.",
+        "ar": "البالغون الباحثون عن تقييم، والأسر التي ترتب تقييمًا لطفل أو مراهق. وُضّح ما يخص تاريخ البالغين عند وروده. تأكّد من أن الجهة تستقبل الفئة العمرية المطلوبة."
+      }
+    }
+  ],
+  "research_notes": [
+    "NICE page was inaccessible (403) during this run; it is not listed as a checked source.",
+    "No prices, insurance benefits, wait times, individual practice permits, clinic availability or Jordanian prescribing scopes were verified or invented.",
+    "The MOH clinic-relocation news was found in search, but no relocation claim is included because the article could not be opened reliably.",
+    "Clinical statements use public-health and primary professional sources; practical booking and organization advice is explicitly original synthesis. No patient experience is presented as real."
+  ]
+}
